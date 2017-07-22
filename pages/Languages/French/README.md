@@ -19,4 +19,4 @@ Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet �
 # Crédits:
 Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)  
 Merci à Onzy / Bowain pour la traduction en français
-# [Goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
+# [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
