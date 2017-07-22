@@ -1,6 +1,6 @@
 # http://sirbeethoven.github.io/LeafHacks/
 # LeafHacks
-Un hub pour les ID d'article ACNL! Pour être utilisé avec [ces Hacks ACNL!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)
+Un hub pour les ID d'article ACNL! Pour être utilisé avec [ces Hacks ACNL!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
 Allez [ici](http://moridb.com) pour voir à quoi ressemble un élément avant de le générer!
 # Utilisation:
 Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet élément sur l'emplacement 1 de votre inventaire. Cela fonctionne en ligne et hors ligne, mais vous devez être l'hôte.
