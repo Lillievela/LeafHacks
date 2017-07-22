@@ -1,0 +1,49 @@
+Favorites - Favoris
+7FFE    Nothing - rien
+20ac    100 Bells - 100 Clochettes
+2117    99,000 Bells - 99 000 Clochettes
+228c    100 turnips - 100n avets
+209d    famous mushroom - champignon célèbre
+338c    coffee - café
+338d    fizzy apple juice - cocktail de fruits
+20a0    tricky pitfall seed - piège discret
+209f    pitfall seed - piège
+20a1    gold nugget - pépite d'or
+20a2    silver nugget - pépite d'argent
+226c    SMB3 paper - papier SMB3
+33c8    Fortune Cookie - gâteau de la chance
+339f    Fountain Firework - feu d'artifice
+5427    Infinite Present - cadeau infini
+2ca4    Belpoint ABD - DAC
+2eca    7-11 ABD - DAC épicerie
+
+Fav. Handhelds - Fav. équipements
+3353    Gold Net - filet doré
+3357    Gold Rod - canne à pêche dorée
+335b    Gold Shovel - pelle dorée
+335f    Golden Can - arrosoir doré
+3363    Golden Slingshot - lance-pierre doré
+334f    Gold Axe - hache dorée
+3365    Toy Hammer - marteau en plastique
+339e    tweeter - sans-gêne
+338e    beans - panier d'haricots
+
+Fav. Vegetation - Fav. Végétation
+2053    gold-rose bag - sac de roses dorées
+2051    black-rose bag - sac de roses noires
+2052    blue-rose bag - sac de roses bleues
+2958    Jacob's ladder - échelle de Jacob
+2959    lucky clovers - trèfle à quatre feuilles
+
+Fav. Hats - Fav. Chapeaux
+285b    royal crown - couronne royale
+285c    crown -  couronne
+
+Fav. Environment - Fav. Environnement
+2001    Apple - pomme
+2018    Apples - lot de pommes
+0070    Money Tree - arbre à clochettes
+003e    Apple Tree - pommier
+009d    Pattern - sol
+2081    train station locker (1) - casier de la gare (1)
+2082    train station locker (2) - casier de la gare (2)

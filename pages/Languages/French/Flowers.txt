@@ -1,0 +1,99 @@
+Outside flowers - Fleurs d'extérieur
+---------------
+009f red tulips - tulipe rouge
+00a0 white tulips - tulipe blanche
+00a1 yellow tulips - tulipe jaune
+00a2 pink tulips - tulipe rose
+00a3 purple tulips - tulipe mauve
+00a4 black tulips - tulipe noire
+00a5 orange tulips - tulipe orange
+00a6 white pansies - pensée blanche
+00a7 yellow pansies - pensée jaune
+00a8 red pansies - pensée rouge
+00a9 purple pansies - pensée mauve
+00aa orange pansies - pensée orange
+00ab blue pansies pensée bleue
+00ac white cosmos - cosmos blanc
+00ad red cosmos - cosmos rouge
+00ae yellow cosmos - cosmos jaune
+00af pink cosmos - cosmos rose
+00b0 orange cosmos - cosmos orange
+00b1 black cosmos - cosmos noir
+00b2 red roses - rose rouge
+00b3 white roses - rose blanche
+00b4 yellow roses - rose jaune
+00b5 pink roses - rose rose
+00b6 orange roses - rose orange
+00b7 purple roses - rose mauve
+00b8 black roses - rose noir
+00b9 blue roses - rose bleue
+00ba gold roses - rose dorée
+00bb red carnations - œillet rouge
+00bc pink carnations - œillet rose
+00bd white carnations œillet blanc
+00be white lilies - lys blanc
+00bf yellow lilies - lys jaune
+00c0 red lilies - lys rouge
+00c1 orange lilies - lys orange
+00c2 pink lilies - lys rose
+00c3 black lilies - lys noir
+00c4 purple violets - violette mauve
+00c5 blue violets - violette bleue
+00c6 white violets - violette blanche
+00c7 yellow violets - violette jaune
+00c8 Jacob's ladder - échelle de Jacob/muguet
+00c9 lucky clovers - trèfle à quatre feuilles
+00ca dandelions - pissenlit
+00cb dandelion puffs - tête de pissenlit
+00cc clovers (weed) - trèfle
+00cd rafflesia - rafflesia
+
+Outside flowers (wilted) - Fleurs d'extérieur (fanées)
+------------------------
+00ce red tulips (wilted) - tulipe rouge (fanée)
+00cf white tulips (wilted) - tulipe blanche (fanée)
+00d0 yellow tulips (wilted) - tulipe jaune (fanée)
+00d1 pink tulips (wilted) - tulipe rose (fanée)
+00d2 purple tulips (wilted) - tulipe mauve (fanée)
+00d3 black tulips (wilted) - tulipe noire (fanée)
+00d4 orange tulips (wilted) - tulipe orange (fanée)
+00d5 white pansies (wilted) - pensée blanche (fanée)
+00d6 yellow pansies (wilted) - pensée jaune (fanée)
+00d7 red pansies (wilted) - pensée rouge (fanée)
+00d8 purple pansies (wilted) - pensée mauve (fanée)
+00d9 orange pansies (wilted) - pensée orange (fanée)
+00da blue pansies (wilted) - pensée bleue (fanée)
+00db white cosmos (wilted) - cosmos blanc (fané)
+00dc red cosmos (wilted) - cosmos rouge (fané)
+00dd yellow cosmos (wilted) - cosmos jaune (fané)
+00de pink cosmos (wilted) - cosmos rose (fané)
+00df orange cosmos (wilted) - cosmos orange (fané)
+00e0 black cosmos (wilted) - cosmos noir (fané)
+00e1 red roses (wilted) - rose rouge (fanée)
+00e2 white roses (wilted) - rose blanche (fanée)
+00e3 yellow roses (wilted) - rose jaune (fanée)
+00e4 pink roses (wilted) - rose rose (fanée)
+00e5 orange roses (wilted) - rose orange (fanée)
+00e6 purple roses (wilted) - rose mauve (fanée)
+00e7 black roses (wilted) - rose noire (fanée)
+00e8 blue roses (wilted) - rose bleue (fanée)
+00e9 gold roses (wilted) - rose dorée (fanée)
+00ea red carnations (wilted) - œillet rouge (fané)
+00eb pink carnations (wilted) - œillet rose (fané)
+00ec white carnations (wilted) - œillet blanc (fané)
+00ed white lilies (wilted) - lys blanche (fanée)
+00ee yellow lilies (wilted) - lys jaune (fanée)
+00ef red lilies (wilted) - lys rouge (fanée)
+00f0 orange lilies (wilted) - lys orange (fanée)
+00f1 pink lilies (wilted) - lys rose (fanée)
+00f2 black lilies (wilted) - lys noire (fanée)
+00f3 purple violets (wilted) - violette mauve (fanée)
+00f4 blue violets (wilted) - violette bleue (fanée)
+00f5 white violets (wilted) - violette blanche (fanée)
+00f6 yellow violets (wilted) - violette jaune (fanée)
+00f7 Jacob's ladder (wilted) - échelle de Jacob (fanée)/muguet (fané)
+00f8 lucky clovers (wilted) - trèfle à quatre feuilles (fané)
+00f9 dandelions (wilted) - pissenlit (fané)
+00fa dandelion puffs (wilted) - tête de pissenlit (fanée)
+00fb clovers (weed) (wilted) - trèfle (fané)
+00fc rafflesia (wilted) - rafflesia (fanée)

@@ -1,0 +1,46 @@
+Fruit - Fruit
+-----
+2001 apple - pomme
+2002 orange - orange
+2003 pear - poire
+2004 peach - pêche
+2005 cherry - cerise
+2006 coconut - noix de coco
+2007 durian - durian
+2008 lemon - citron
+2009 lychee - litchi
+200a mango - mangue
+200b persimmon - kaki
+200c banana - banane
+200d bamboo shoot - pousse de bambou
+200e perfect apple - pomme parfaite
+200f perfect orange - orange parfaite
+2010 perfect pear - poire parfaite
+2011 perfect peach - pêche parfaite
+2012 perfect cherry - cerise parfaite
+2013 rotten apple - pomme pourrie
+2014 rotten orange - orange pourrie
+2015 rotten pear - poire pourrie
+2016 rotten peach - pêche pourrie
+2017 rotten cherry - cerise pourrie
+
+Fruits - Fruits
+------
+2018 apples - lot de pommes
+2019 oranges - lot d'oranges
+201a pears - lot de poires
+201b peaches - lot de pêches
+201c cherries - lot de cerises
+201d coconuts - lot de noix de coco
+201e durians - lot de durians
+201f lemons - lot de citrons
+2020 lychees - lot de litchis
+2021 mangoes - lot de mangues
+2022 persimmons - lot de kakis
+2023 bananas - lot de bananes
+2024 bamboo shoots - lot de pousses de bambou
+2025 perfect apples - lot de pommes parfaites
+2026 perfect oranges - lot d'oranges parfaites
+2027 perfect pears - lot de poires parfaites
+2028 perfect peaches - lot de pêches parfaites
+2029 perfect cherries - lot de cerises parfaites

@@ -1,0 +1,180 @@
+Uncategorized - Incatégorisés
+
+Environment Starters / Gifts - Pack environnement / Cadeaux
+202a fossil - fossile
+202b fertilizer - engrais
+202c sapling - arbrisseau
+202d cedar sapling - jeune cèdre
+202e holly shoot - pousse de houx
+202f pink azalea shoot - pousse d'azalée rose
+2030 white azalea shoot - pousse d'azalée blanche
+2031 blue hydrangea shoot - pous. hortensia bleu
+2032 pink hydrangea shoot - pous. hortensia rose
+2033 red hibiscus shoot - pous. hibiscus rouge
+2034 y. hibiscus shoot - pous. hibiscus jaune
+2035 sweet olive shoot - pousse d'osmanthus
+2036 present - cadeau
+2038 red-tulip bag - sac tulipes rouges
+2039 white-tulip bag - sac tulipes blanches
+203a yellow-tulip bag - sac tulipes jaunes
+203b pink-tulip bag - sac tulipes jaunes
+203c purple-tulip bag - sac tulipes mauves
+203d black-tulip bag - sac tulipes noires
+203e orange-tulip bag - sac tulipes oranges
+203f white-pansy bag - sac pensées blanches
+2040 yellow-pansy bag - sac pensées jaunes
+2041 red-pansy bag - sac pensées rouges
+2042 purple-pansy bag - sac pensées mauves
+2043 orange-pansy bag - sac pensées oranges
+2044 blue-pansy bag - sac pensées bleues
+2045 white-cosmos bag - sac cosmos blancs
+2046 red-cosmos bag - sac cosmos rouges
+2047 sun-cosmos bag - sac cosmos jaunes
+2048 pink-cosmos bag - sac cosmos roses
+2049 orange-cosmos bag - sac cosmos oranges
+204a black-cosmos bag - sac cosmos noirs
+204b red-rose bag - sac roses rouges
+204c white-rose bag - sac roses blanches
+204d yellow-rose bag - sac roses jaunes
+204e pink-rose bag - sac roses roses
+204f orange-rose bag - sac roses oranges
+2050 purple-rose bag - sac roses mauves
+2051 black-rose bag - sac roses noires
+2052 blue-rose bag - sac roses bleues
+2053 gold-rose bag - sac de roses dorées
+2054 red-carnation bag - sac d'œillets rouges
+2055 pink-carnation bag - sac d'œillets roses
+2056 white-carnation bag - sac d'œillets blancs
+2057 white-lily bag - sac de lys blanches
+2058 yellow-lily bag - sac de lys jaunes
+2059 red-lily bag - sac de lys rouges
+205a orange-lily bag - sac de lys oranges
+205b pink-lily bag - sac de lys roses
+205c black-lily bag - sac de lys noires
+205d purple-violet bag - sac de violettes mauves
+205e blue-violet bag - sac de violettes bleues
+205f white-violet bag - sac de violettes blanches
+2060 yellow-violet bag - sac de violettes jaunes
+2089 wrapping paper - papier cadeau
+208a medicine - remède
+208b chocolate heart - cœur choco
+
+Shells / Candy - Coquillages / Bonbons
+208c pearl-oyster shell - coq. huître perlière
+208d conch shell - coquille de conque
+208e giant-clam shell - coq. bénitier géant
+208f coral - branche de corail
+2090 venus-comb shell - coq. peigne de vénus
+2091 scallop shell - coquille de pétoncle
+2092 sea-snail shell - coq. escargot de mer
+2093 cowrie shell - coq. de porcelaine
+2094 sand dollar - clypéastre
+2095 oyster shell - coquille d'huître
+2096 candy - bonbon
+2097 lollipop - sucette
+
+Mushrooms / Traps - Champignons / Pièges
+2098 elegant mushroom - champignon élégant
+2099 round mushroom - champignon rond
+209a skinny mushroom - champignon maigre
+209b flat mushroom champignon plat
+209c rare mushroom - champi rare
+209d famous mushroom - champi célèbre
+209e beehive - rayon de miel
+209f pitfall seed - piège
+20a0 tricky pitfall seed - piège discret
+
+Ores - Pierres précieuses
+20a1 gold nugget - pépite d'or
+20a2 silver nugget - pépite d'argent
+20a3 ruby - rubis
+20a4 sapphire - saphir
+20a5 emerald - émeraude
+20a6 amethyst - améthyste
+
+Ingredients - Ingrédients
+20a7 butter - beurre
+20a8 milk - lait
+20a9 vinegar - vinaire
+20aa flour - paquet de farine
+20ab sugar - sucre
+
+Prizes - Prix
+2118 earth egg - œuf terrestre
+2119 tree egg - œuf végétal
+211a stone egg - œuf minéral
+211b sky egg - œuf aérien
+211c winning ticket - ticket surprise
+211d grand-prize ticket - top-ticket surprise
+
+Mannequins - Mannequins
+30cc mannequin 1 - mannequin 1
+30cd mannequin 2 - mannequin 2
+30ce mannequin 3 - mannequin 3
+30cf mannequin 4 - mannequin 4
+
+Drinks - Boissons
+338c coffee - café
+338d fizzy apple juice - cocktail de fruits
+338e beans - panier de haricots
+338f good-luck roll - maki porte-bonheur
+3390 vanilla soft-serve - cornet vanille
+3391 choco soft-serve - cornet de chocolat
+3392 matcha soft-serve - cornet pistache
+3393 swirl soft-serve - cornet fraise
+3394 vanilla ice cream - glace fruits confits
+3395 strawberry ice cream - glace à la framboise
+3396 lemon double scoop - glace citron-menthe
+3397 mint double scoop - glace tropical-melon
+
+Custom Stuff - Trucs customisés
+33a7 custom shirt - motif vêtement
+33a8 custom pattern (easel) - motif sol chevalet
+33a9 custom pattern (frame) - motif sol cadre
+
+Wands / Fireworks / Celebration - Baguettes / Feux d'artifices / Festivités
+3398 blue glow wand - baguette fluo bleue
+3399 green glow wand - baguette fluo verte
+339a pink glow wand - baguette fluo rose
+339b yellow glow wand - baguette fluo jaune
+339c Flower Fairy wand **NEW** - baguette églantine
+339d Kiki and Lala wand **NEW** - baguette Kiki & Lala
+339e tweeter - sans-gêne
+339f fountain firework - fontaine d'artifice
+33a0 used firework - feu d'artifice usagé
+33a1 Santa bag - sac de père Noël
+33a2 mystery bag - sac mystère
+
+Coffee Beans - Sachets de café
+33a3 normal coffee beans - sachet de café banal
+33a4 good coffee beans - sachet de bon café
+33a5 superb coffee beans - sachet de café extra
+33a6 chocolate coin - pièce en chocolat
+
+Villager Items - Items habitants
+33b7 signature sheet - carnet de signatures
+33b8 petition form - pétition
+33b9 paper scrap - débris de papier
+33ba lost item (book) - objet perdu (livre)
+33bb lost item (pouch) - objet perdu (sac)
+33bc lost item (mitten) - objet perdu (gants)
+33bd lost item (paper bag) - objet perdu (sac en papier)
+33be towel - serviette
+
+Festival Prizes - Prix de festivités
+3402 Redd's cookie - rounardise
+3403 dud ticket - ticket perdant
+3404 flash ticket - ticket boum
+3405 bang ticket - ticket bang
+3406 sparkle ticket - ticket driiiing
+3407 whiz ticket - ticket crakboum
+3408 pow ticket - ticket poiiiing
+3409 crackle ticket - ticket badabim
+340a kaboom ticket - ticket vroum-vroum
+340b pop ticket - ticket hip-hip-hip
+
+In-Game Events - Jeux événements
+341a bingo card - grille de bingogo
+341b expired bingo card - grille périrmée
+341c time capsule - capsule temporelle
+341d scavenger-hunt list - liste de meuble

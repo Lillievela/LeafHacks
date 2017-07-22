@@ -1,0 +1,405 @@
+Museum - Musée
+
+Bugs - Insectes
+----
+228e common butterfly - piéride de la rave
+228f yellow butterfly - citrin
+2290 tiger butterfly - machaon
+2291 peacock butterfly - papilio bianor
+2292 monarch butterfly - monarque
+2293 emperor butterfly - morpho bleu
+2294 agrias butterfly - agrias
+2295 Raja B. butterfly - brookiana
+2296 birdwing butterfly - ornithoptère
+2297 moth - papillon de nuit
+2298 oak silk moth - coscinocera hercules
+2299 honeybee - abeille naine
+229a bee - abeille
+229b long locust - acrida cinera
+229c migratory locust - criquet pèlerin
+229d rice grasshopper - criquet
+229e mantis - mante religieuse
+229f orchid mantis - mante orchidée
+22a0 brown cicada - cigale cercope
+22a1 robust cicada - cigale hyalessa
+22a2 giant cicada - cigale géante
+22a3 walker cicada - cigale cicadelle
+22a4 evening cicada - cigale higurashi
+22a5 cicada shell - mue de cigale
+22a6 lantern fly - lanternaria
+22a7 red dragonfly - demoiselle
+22a8 darner dragonfly - anax napolitain
+22a9 banded dragonfly - cordulégastre
+22aa petaltail dragonfly - libellule géante
+22ab ant - fourmi
+22ac pondskater - patineur
+22ad diving beetle - dytique
+22ae stinkbug - punaise
+22af snail - escargot
+22b0 cricket - grillon des près
+22b1 bell cricket - grillon du midi
+22b2 grasshopper - sauterelle
+22b3 mole cricket - taupe-grillon
+22b4 walking leaf - phyllie
+22b5 walking stick - phasme
+22b6 bagworm - psyché
+22b7 ladybug - coccinelle
+22b8 violin beetle - mormolyce
+22b9 longhorn beetle - longicorne
+22ba tiger beetle - cicindèle
+22bb dung beetle - bousier
+22bc wharf roach - ligie
+22bd hermit crab - bernard-l'ermite
+22be firefly - luciole
+22bf fruit beetle - nitidule
+22c0 scarab beetle - scarabée
+22c1 jewel beetle - bupreste
+22c2 miyama stag - lucane miyama
+22c3 saw stag - lucane inclinatus
+22c4 giant stag - lucane cerf-volant
+22c5 rainbow stag - lucane copris irisé
+22c6 cyclommatus stag - lucane cyclommatus
+22c7 golden stag - lucane lamprima
+22c8 horned dynastid - scarabée kabuto
+22c9 horned atlas - scarabée atlas
+22ca horned elephant - scarabée éléphant
+22cb horned hercules - scarabée hercule
+22cc goliath beetle - scarabée goliath
+22cd flea - puce
+22ce pill bug - cloporte
+22cf mosquito - moustique
+22d0 fly - mouche
+22d1 house centipede - scutigère
+22d2 centipede - mille-pattes
+22d3 spider - araignée
+22d4 tarantula - tarentule
+22d5 scorpion - scorpion
+22d6 snowflake - flocon de neige
+22d7 red feather - plume rouge
+22d8 blue feather - plume bleue
+22d9 green feather - plume verte
+22da yellow feather - plume jaune
+22db purple feather - plume mauve
+22dc white feather - plume blanche
+22dd pink feather - plume rose
+22de rainbow feather - plume irisée
+22df good-luck charm **NEW**  - amulette
+
+Fish - Poissons
+----
+22e1 bitterling - bouvière
+22e2 pale chub - chevaine
+22e3 crucian carp - carassin
+22e4 dace - vandoise
+22e5 barbel steed - barbeau
+22e6 carp - carpe
+22e7 koi - carpe koï
+22e8 goldfish - poisson rouge
+22e9 pop-eyed goldfish - cyprin doré
+22ea killifish - fondule barré
+22eb crawfish - écrevisse
+22ec soft-shelled turtle - tortue tryonix
+22ed tadpole - têtard
+22ee frog - grenouille
+22ef freshwater goby - gobie d'eau douce
+22f0 loach - loche d'étang
+22f1 catfish - silure
+22f2 eel - anguille
+22f3 giant snakehead - tête-de-serpent
+22f4 bluegill - crapet
+22f5 yellow perch - perche jaune
+22f6 black bass - bar
+22f7 pike - brochet
+22f8 pond smelt - éperlan
+22f9 sweetfish - ayu
+22fa cherry salmon - saumon rose
+22fb char - omble
+22fc rainbow trout - truite
+22fd stringfish - dai yu
+22fe salmon - saumon
+22ff king salmon - saumon roi
+2300 mitten crab - crabe chinois
+2301 guppy - guppy
+2302 nibble fish - poisson docteur
+2303 angelfish - poisson-ange
+2304 neon tetra - néon bleu
+2305 piranha - piranha
+2306 arowana - arowana
+2307 dorado - dorade
+2308 gar - gar
+2309 arapaima - arapaïma
+230a saddled bichir - bichir
+230b sea butterfly - clione
+230c sea horse - hippocampe
+230d clown fish - poisson-clown
+230e surgeonfish - poisson chirurgien
+230f butterfly fish - poisson-papillon
+2310 Napoleonfish - napoléon
+2311 zebra turkeyfish - poisson-scorpion
+2312 blowfish - poisson-ballon
+2313 puffer fish - poisson-porc-épic
+2314 horse mackerel - chinchard
+2315 barred knifejaw - scarus
+2316 sea bass - bar commun
+2317 red snapper - vivaneau
+2318 dab - limande
+2319 olive flounder - cardeau
+231a squid - calmar
+231b moray eel - murène
+231c ribbon eel - murène ruban bleue
+231d football fish - poisson lanterne
+231e tuna - thon
+231f blue marlin - marlin bleu
+2320 giant trevally - carangue grosse tête
+2321 ray - raie
+2322 ocean sunfish - lune de mer
+2323 hammerhead shark - requin marteau
+2324 shark - requin
+2325 saw shark - requin scie
+2326 whale shark - requin-baleine
+2327 oarfish - poisson-ruban
+2328 coelacanth - cœlacanthe
+2329 empty can - boîte vide
+232a boot - botte
+232b old tire - vieux pneu
+232c water egg - œuf minéral
+
+Marine creatures - Créatures marines
+----------------
+232d seaweed - wakame
+232e sea grapes - algue raisin de mer
+232f sea urchin - oursin
+2330 acorn barnacle - balane
+2331 oyster - huître
+2332 turban shell - turbo
+2333 abalone - ormeau
+2334 ear shell - oreille de mer
+2335 clam - palourde
+2336 pearl oyster - huître perlière
+2337 scallop - pétoncle
+2338 sea anemone - anémone de mer
+2339 sea star - étoile de mer
+233a sea cucumber - concombre de mer
+233b sea slug - limace de mer
+233c flatworm - ver plat
+233d mantis shrimp - crevette-mante
+233e sweet shrimp - crevette nordique
+233f tiger prawn - crevette tigrée
+2340 spiny lobster - langouste
+2341 lobster - homard
+2342 snow crab - crabe des neiges
+2343 horsehair crab - crabe velu
+2344 red king crab - crabe royal
+2345 spider crab - crabe-araignée géant
+2346 octopus - poulpe
+2347 spotted garden eel - anguille de jardin
+2348 chambered nautilus - nautile
+2349 horseshoe crab - limule
+234a giant isopod - bathynome géant
+234b deep-sea egg - œuf marin
+
+Fossils - Fossiles
+-------
+3130 amber - ambre
+3131 ammonite - ammonite
+3132 coprolite - crotte de dinosaure
+3133 dinosaur egg - oeuf de dinosaure
+3134 fern fossil - fossile de fougère
+3135 dinosaur track - empreinte de dino
+3136 archaeopteryx - archéoptéryx
+3137 Peking man - homme de Pékin
+3138 shark tooth - dent de requin
+3139 trilobite - trilobite
+313a T. rex skull - crâne de T. rex
+313b T. rex torso - corps de T. rex
+313c T. rex tail - queue de T. rex
+313d tricera skull - crâne de tricératops
+313e tricera torso - corps de tricératops
+313f tricera tail - queue de tricératops
+3140 mammoth skull - crâne de mammouth
+3141 mammoth torso - corps de mammouth
+3142 ankylo skull - crâne d'ankylosaure
+3143 ankylo torso - torse d'ankylosaure
+3144 ankylo tail - queue d'ankylosaure
+3145 apato skull - crâne d'apatosaure
+3146 apato torso - corps d'apatosaure
+3147 apato tail - queue d'apatosaure
+3148 dimetrodon skull - crâne de dimétrodon
+3149 dimetrodon torso - corps de dimétrodon
+314a dimetrodon tail - queue de dimétrodon
+314b iguanodon skull - crâne d'iguanodon
+314c iguanodon torso - torse d'iguanodon
+314d iguanodon tail - queue d'iguanodon
+314e sabertooth skull - crâne de smilodon
+314f sabertooth torso - torse de smilodon
+3150 pachysaurus skull - crâne de pachycéphal
+3151 pachysaurus torso - torse de pachycéphal
+3152 pachysaurus tail - queue de pachycéphal
+3153 parasaur skull - crâne de parasauro
+3154 parasaur torso - torse de parasauro
+3155 parasaur tail - queue de parasauro
+3156 diplo skull - crâne de séismo
+3157 diplo neck - cou de séismo
+3158 diplo chest - torse de séismo
+3159 diplo hip - hanche de séismo
+315a diplo tail - queue de séismo
+315b plesio skull - crâne de plésiosaure
+315c plesio neck - cou de plésiosaure
+315d plesio torso - torse de plésiosaure
+315e stego skull - crâne de stégosaure
+315f stego torso - corps de stégosaure
+3160 stego tail - queue de stégosaure
+3161 ptera skull - crâne de ptéra
+3162 ptera left wing - aile gauche de ptéra
+3163 ptera right wing - aile droite de ptéra
+3164 ichthyo skull - crâne d'ichtyosaure
+3165 ichthyo torso - corps d'ichtyosaure
+3166 raptor skull - crâne de raptor
+3167 raptor torso - corps de raptor
+3168 styraco skull - crâne de styraco
+3169 styraco torso - corps de styraco
+316a styraco tail - queue de styraco
+316b spino skull - crâne de spinosaurus
+316c spino torso - corps de spinosaurus
+316d spino tail - queue de spinosaurus
+316e megacero skull - crâne de bronto
+316f megacero torso - corps de bronto
+3170 megacero tail - queue de bronto
+3171 archelon skull - crâne d'archelon
+3172 archelon torso - corps d'archelon
+3173 T. rex model - maquette de T. rex
+3174 tricera model - maquette tricératops
+3175 mammoth model - maquette mammouth
+3176 ankylo model - maquette ankylosaure
+3177 apato model - maquette apatosaure
+3178 dimetrodon model - maquette de dimétrodon
+3179 iguanodon model - maquette iguanodon
+317a sabertooth model - maquette de smilodon
+317b pachysaurus model - maquette pachycéphal
+317c parasaur model - maquette parasauro
+317d diplo model - maquette séismosaure
+317e plesio model - maquette plésiosaure
+317f stego model - maquette stégosaure
+3180 ptera model - maquette ptéranodon
+3181 ichthyo model - maquette ichtyosaure
+3182 raptor model - maquette de raptor
+3183 styraco model - maquette de styraco
+3184 spino model - maquette spinosaurus
+3185 megacero model - maquette de bronto
+3186 archelon model - maquette d'archelon
+
+Art - Tableaux et statues
+---
+30d2 dynamic painting - toile déferlante
+30d3 solemn painting - toile solennelle
+30d4 quaint painting - toile charmante
+30d5 basic painting - toile classique
+30d6 famous painting - toile célèbre
+30d7 perfect painting - toile parfaite
+30d8 amazing painting - toile incroyable
+30d9 nice painting - toile magnifique
+30da moving painting - toile émouvante
+30db common painting - toile commune
+30dc flowery painting - toile florale
+30dd warm painting - toile radieuse
+30de jolly painting - toile potagère
+30df fine painting - toile réussie
+30e0 scary painting - toile effrayante
+30e1 proper painting - toile austère
+30e2 neutral painting - toile neutre
+30e3 worthy painting - toile précieuse
+30e4 calm painting - toile apaisante
+30e5 moody painting - toile puissante
+30e6 wistful painting - toile nacrée
+30e7 serene painting - toile royale
+30e8 scenic painting - toile hivernale
+30e9 wild painting - toile sauvage
+30ea graceful painting - toile gracieuse
+30eb beautiful statue - statue féminine
+30ec valiant statue - statue héroïque
+30ed gallant statue - statue majestueuse
+30ee robust statue - statue athlétique
+30ef great statue - statue imposante
+30f0 mystic statue - statue mystérieuse
+30f1 ancient statue - statue antique
+30f2 motherly statue - statue maternelle
+30f3 dynamic painting (fake) - toile déferlante (contrefaçon)
+30f4 solemn painting (fake) - toile solennelle (contrefaçon)
+30f5 quaint painting (fake) - toile charmante (contrefaçon)
+30f6 basic painting (fake) - toile classique (contefaçon)
+30f7 famous painting (fake) - toile célèbre (contefaçon)
+30f8 amazing painting (fake) - toile incroyable (contefaçon)
+30f9 moving painting (fake) - toile émouvante (contefaçon)
+30fa jolly painting (fake) - toile potagère (contefaçon)
+30fb scary painting (fake) - toile effrayante (contrefaçon)
+30fc neutral painting (fake) - toile nacrée (contrefaçon)
+30fd wistful painting (fake) - toile royale (contrefaçon)
+30fe serene painting (fake) - toile hivernale (contrefaçon)
+30ff wild painting (fake) - toile sauvage (contrefaçon)
+3100 graceful painting (fake) - toile gracieuse (contrefaçon)
+3101 beautiful statue (fake) - statue féminine (contrefaçon)
+3102 valiant statue (fake) - statue héroïque (contrefaçon)
+3103 gallant statue (fake) - statue majestueuse (contrefaçon)
+3104 robust statue (fake) - statue athlétique (contrefaçon)
+3105 great statue (fake) - statue imposante (contrefaçon)
+3106 mystic statue (fake) - statue mystérieuse (contrefaçon)
+3107 ancient statue (fake) - statue antique (contrefaçon)
+3108 motherly statue (fake) - statue maternelle (contrefaçon)
+
+Art (2?) - Tableaux et statues (2?)
+--------
+3109 dynamic painting (2?) - toile déferlante (2?)
+310a solemn painting (2?) - toile solennelle (2?)
+310b quaint painting (2?) - toile charmante (2?)
+310c basic painting (2?) - toile classique (2?)
+310d famous painting (2?) - toile célèbre (2?)
+310e perfect painting (2?) - toile parfaite (2?)
+310f amazing painting (2?) - toile incroyable (2?)
+3110 nice painting (2?) - toile magnifique (2?)
+3111 moving painting (2?) - toile émouvante (2?)
+3112 common painting (2?) - toile commune (2?)
+3113 flowery painting (2?) - toile florale (2?)
+3114 warm painting (2?) - toile radieuse (2?)
+3115 jolly painting (2?) - toile potagère (2?)
+3116 fine painting (2?) - toile réussie (2?)
+3117 scary painting (2?) - toile effrayante (2?)
+3118 proper painting (2?) - toile austère (2?)
+3119 neutral painting (2?) - toile neutre (2?)
+311a worthy painting (2?) - toile précieuse (2?)
+311b calm painting (2?) - toile apaisante (2?)
+311c moody painting (2?) - toile puissante (2?)
+311d wistful painting (2?) - toile nacrée (2?)
+311e serene painting (2?) - toile royale (2?)
+311f scenic painting (2?) - toile hivernale (2?)
+3120 wild painting (2?) - toile sauvage (2?)
+3121 graceful painting (2?) - toile gracieuse (2?)
+3122 beautiful statue (2?) - statue féminine (2?)
+3123 valiant statue (2?) - statue héroïque (2?)
+3124 gallant statue (2?) - statue majestueuse (2?)
+3125 robust statue (2?) - statue athlétique (2?)
+3126 great statue (2?) - statue imposante (2?)
+3127 mystic statue (2?) - statue mystérieuse (2?)
+3128 ancient statue (2?) - statue antique (2?)
+3129 motherly statue (2?) - statue maternelle (2?)
+312a dynamic painting (fake) (2?) - toile déferlante (contrefaçon) (2?)
+312b solemn painting (fake) (2?) - toile solennelle (contrefaçon) (2?)
+312c quaint painting (fake) (2?) - toile charmante (contrefaçon) (2?)
+312d basic painting (fake) (2?) - toile classique (contrefaçon) (2?)
+312e famous painting (fake) (2?) - toile célèbre (contrefaçon) (2?)
+312f amazing painting (fake) (2?) - toile incroyable (contrefaçon) (2?)
+3130 moving painting (fake) (2?) - toile émouvante (contrefaçon) (2?)
+3131 jolly painting (fake) (2?) - toile potagère (contrefaçon) (2?)
+3132 scary painting (fake) (2?) - toile effrayante (contrefaçon) (2?)
+3133 neutral painting (fake) (2?) - toile neutre (contrefaçon) (2?)
+3134 wistful painting (fake) (2?) - toile nacrée (contrefaçon) (2?)
+3135 serene painting (fake) (2?) - toile royale (contrefaçon) (2?)
+3136 wild painting (fake) (2?) - toile sauvage (contrefaçon) (2?)
+3137 graceful painting (fake) (2?) - toile gracieuse (contrefaçon) (2?)
+3138 beautiful statue (fake) (2?) - statue féminine (contrefaçon) (2?)
+3139 valiant statue (fake) (2?) - statue héroïque (contrefaçon) (2?)
+313a gallant statue (fake) (2?) - statue majestueuse (contrefaçon) (2?)
+313b robust statue (fake) (2?) - statue athlétique (contrefaçon) (2?)
+313c great statue (fake) (2?) - statue imposante (contrefaçon) (2?)
+313d mystic statue (fake) (2?) - statue mystérieuse (contrefaçon) (2?)
+313e ancient statue (fake) (2?) - statue antique (contrefaçon) (2?)
+313f motherly statue (fake) (2?) - statue maternelle (contrefaçon) (2?)
