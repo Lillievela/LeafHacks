@@ -20,5 +20,3 @@ Activez T2I à partir du multi-plugin. Entrez l'ID de l'élément souhaité et a
 Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)  
 Merci à Bowain pour la traduction en français
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
-# To Do
-Furniture, Amiibo, Handhelds, Hats, Shirts, Accessories, Dresses/Wet Suits, Pant/Skirts, Socks/Shoes, Bells/Turnips/Fortunes, Wallpapers, Carpets, Fruit, Gyroids, Songs, Paper/V. Pics, Nook Inv., Weeds/Rocks, All
