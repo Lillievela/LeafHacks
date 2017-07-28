@@ -18,5 +18,5 @@ Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet �
 [Animal Crossing: Wild Leaf](https://gbatemp.net/threads/release-animal-crossing-wild-leaf.402337/)  
 # Crédits:
 Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)  
-Merci à Onzy / Bowain pour la traduction en français
+Merci à Bowain pour la traduction en français
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
