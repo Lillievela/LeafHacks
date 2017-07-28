@@ -3,7 +3,7 @@
 Un hub pour les ID d'article ACNL! Pour être utilisé avec [ces Hacks ACNL!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
 Allez [ici](http://moridb.com) pour voir à quoi ressemble un élément avant de le générer!
 # Utilisation:
-Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet élément sur l'emplacement 1 de votre inventaire. Cela fonctionne en ligne et hors ligne, mais vous devez être l'hôte.
+Activez T2I à partir du multi-plugin. Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet élément sur l'emplacement 1 de votre inventaire. Cela fonctionne en ligne et hors ligne.
 # Outils:
 [ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats)  
 [Éditeur tout-en-un](http://usuaris.tinet.cat/mark/acnl_editor/) [**(Source)**](http://usuaris.tinet.cat/mark/acnl_editor/beta/Js/acnl_editor.js) [**(Forum)**](https://gbatemp.net/threads/animal-crossing-new-leaf-save-editor.382965/)  
