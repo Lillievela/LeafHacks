@@ -1,9 +1,9 @@
 # http://sirbeethoven.github.io/LeafHacks/
 # LeafHacks
-Un hub pour les ID d'article ACNL! Pour être utilisé avec [ces Hacks ACNL!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
-Allez [ici](http://moridb.com) pour voir à quoi ressemble un élément avant de le générer!
+Un répertoire pour les ID des items ACNL! Pour être utilisé avec [ces Hacks ACNL!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
+Allez [ici](http://moridb.com) pour voir à quoi ressemble un item avant de le générer!
 # Utilisation:
-Activez T2I à partir du multi-plugin. Entrez l'ID de l'élément souhaité et appuyez sur X + D Pad pour écrire cet élément sur l'emplacement 1 de votre inventaire. Cela fonctionne en ligne et hors ligne.
+Activez T2I (Text to Item) dans le plugin (SELECT est la touche par défaut pour l'ouvrir). Entrez l'ID de l'item souhaité et appuyez sur X + Flèche de droite pour écrire cet item dans l'emplacement 1 de votre inventaire. Cela fonctionne en ligne et hors ligne.
 # Outils:
 [ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats)  
 [Éditeur tout-en-un](http://usuaris.tinet.cat/mark/acnl_editor/) [**(Source)**](http://usuaris.tinet.cat/mark/acnl_editor/beta/Js/acnl_editor.js) [**(Forum)**](https://gbatemp.net/threads/animal-crossing-new-leaf-save-editor.382965/)  
@@ -17,6 +17,6 @@ Activez T2I à partir du multi-plugin. Entrez l'ID de l'élément souhaité et a
 [ACNL Rom Hacking](https://gbatemp.net/threads/animal-crossing-new-leaf-rom-hacking.401093/)  
 [Animal Crossing: Wild Leaf](https://gbatemp.net/threads/release-animal-crossing-wild-leaf.402337/)  
 # Crédits:
-Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)  
+Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)
 Merci à Bowain pour la traduction en français
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
