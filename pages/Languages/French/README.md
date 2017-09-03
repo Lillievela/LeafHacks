@@ -19,6 +19,6 @@ Activez T2I (Text to Item) dans le plugin (SELECT est la touche par défaut pour
 # Crédits:
 Remerciements spéciaux à marc_max, RyDog, et tout le monde qui a aidé à soutenir et à créer des hacks ACNL :)
 Merci à Bowain pour la traduction en français
-# Languages:
+# Langues:
 Si vous lisez dans une langue différente, utilisez l'outil [Web Traduire](http://itools.com/tool/google-translate-web-page-translator), [Google Translate](https://translate.google.com/), [Translate Extension](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6976Nz4nWAhWk8YMKHbFlDScQFggoMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fgoogle-translate%2Faapbdbdomjkkjkaonfhkkikfgjllcleb%3Fhl%3Den&usg=AFQjCNEbBohk5V9Kajw4fDp_G52690FKVQ), [LeafMax](https://sirbeethoven.github.io/LeafMax/), ou une alternative (excusez-vous à l'avance).
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
