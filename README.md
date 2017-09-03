@@ -19,4 +19,6 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 # Credits:  
 Special Thanks to marc_max, RyDog, and everybody else who helped support and create ACNL hacks :)  
 Thanks to Bowain for the French translation.  
+# Languages:
+If you read in a different language, please use the [Translate Web Tool](http://itools.com/tool/google-translate-web-page-translator), [Google Translate](https://translate.google.com/), [Google Chrome Translate Extension](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6976Nz4nWAhWk8YMKHbFlDScQFggoMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fgoogle-translate%2Faapbdbdomjkkjkaonfhkkikfgjllcleb%3Fhl%3Den&usg=AFQjCNEbBohk5V9Kajw4fDp_G52690FKVQ), [LeafMax](https://sirbeethoven.github.io/LeafMax/)
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
