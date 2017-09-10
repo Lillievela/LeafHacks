@@ -7,6 +7,7 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 # Tools:
 [ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats)  
 [All-in-One Editor](http://usuaris.tinet.cat/mark/acnl_editor/) [**(Source)**](http://usuaris.tinet.cat/mark/acnl_editor/beta/js/acnl_editor.js) [**(Forum)**](https://gbatemp.net/threads/animal-crossing-new-leaf-save-editor.382965/)  
+[Offline Editor](https://github.com/Mega-Mew/NLSE/releases)
 [Pattern Editor](http://www.thulinma.com/acnl/)  
 [AC:HHD NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-happy-home-designer-multi-cheat-ntr-plugin.444054/) [**(Source)**](https://github.com/RyDog199/ACHHD-NTR-Cheats)
 # Sources:
