@@ -5,7 +5,7 @@ Go [here](http://moridb.com) to see what an item looks like before you spawn it 
 # Usage:
 Type in the ID of the item you want and press X + D Pad Right to write that item to slot 1 of your inventory. This works online and offline but you need to be the host.
 # Tools:
-[ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats)  
+[ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats) [**Discord**](https://discord.gg/EZSxqRr)  
 [All-in-One Editor](http://usuaris.tinet.cat/mark/acnl_editor/) [**(Source)**](http://usuaris.tinet.cat/mark/acnl_editor/beta/js/acnl_editor.js) [**(Forum)**](https://gbatemp.net/threads/animal-crossing-new-leaf-save-editor.382965/)  
 [Offline Editor](https://github.com/Mega-Mew/NLSE/releases)  
 [Pattern Editor](http://www.thulinma.com/acnl/)  
