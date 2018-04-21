@@ -3,7 +3,9 @@
 A hub for ACNL item ID's! To be used with [these ACNL Hacks!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
 Go [here](http://moridb.com) to see what an item looks like before you spawn it in!  
 # Usage:
-Type in the ID of the item you want and press X + D Pad Right to write that item to slot 1 of your inventory. This works online and offline but you need to be the host.
+Use these ID's with Text to Item on the [cheat code.](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
+Type in the ID of the item you want and press X + D Pad Right to write that item to slot 1 of your inventory.  
+Some of these ID's can be used for Seeder, Emotion Changer, and other cheats.
 # Tools:
 [ACNL NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/) [**(Source)**](https://github.com/RyDog199/ACNL-NTR-Cheats) [**(Discord)**](https://discord.gg/EZSxqRr)  
 [All-in-One Editor](http://usuaris.tinet.cat/mark/acnl_editor/) [**(Source)**](http://usuaris.tinet.cat/mark/acnl_editor/beta/js/acnl_editor.js) [**(Forum)**](https://gbatemp.net/threads/animal-crossing-new-leaf-save-editor.382965/)  
