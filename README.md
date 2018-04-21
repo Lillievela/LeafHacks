@@ -10,6 +10,7 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 [Offline Editor](https://github.com/Mega-Mew/NLSE/releases)  
 [Pattern Editor](http://www.thulinma.com/acnl/)  
 [AC:HHD NTR Plugin](https://gbatemp.net/threads/release-animal-crossing-happy-home-designer-multi-cheat-ntr-plugin.444054/) [**(Source)**](https://github.com/RyDog199/ACHHD-NTR-Cheats)
+[Luma NTR Plugin](https://gbatemp.net/threads/ctrpluginframework-blank-plugin-now-with-action-replay.487729/page-6#post-7750475)  
 # Sources:
 [ID List](https://github.com/kwsch/NLSE/blob/master/Resources/text/item_en.txt)  
 [Text2Item](https://gbatemp.net/threads/release-animal-crossing-new-leaf-text2item-ntr-plugin.420529/)  
