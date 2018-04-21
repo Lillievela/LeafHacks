@@ -19,8 +19,8 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 [ACNL Rom Hacking](https://gbatemp.net/threads/animal-crossing-new-leaf-rom-hacking.401093/)  
 [Animal Crossing: Wild Leaf](https://gbatemp.net/threads/release-animal-crossing-wild-leaf.402337/)  
 # Credits:  
-Special Thanks to marc_max, RyDog, and everybody else who helped support and create ACNL hacks :)  
-Thanks to Bowain for the French translation.  
+All credit goes out to marc_max, RyDog, Slattz, and everybody else who's supported and created ACNL hacks.  
+And thank you to Bowain for the French translation.  
 # Languages:
-If you read in a different language, please use the [Translate Web Tool](http://itools.com/tool/google-translate-web-page-translator), [Google Translate](https://translate.google.com/), [Translate Extension](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6976Nz4nWAhWk8YMKHbFlDScQFggoMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fgoogle-translate%2Faapbdbdomjkkjkaonfhkkikfgjllcleb%3Fhl%3Den&usg=AFQjCNEbBohk5V9Kajw4fDp_G52690FKVQ), [LeafMax](https://sirbeethoven.github.io/LeafMax/), or an alternative (apologies in advance).
+If you read in a different language, please use the [Translate Web Tool](http://itools.com/tool/google-translate-web-page-translator), [Google Translate](https://translate.google.com/), [Translate Extension](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6976Nz4nWAhWk8YMKHbFlDScQFggoMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fgoogle-translate%2Faapbdbdomjkkjkaonfhkkikfgjllcleb%3Fhl%3Den&usg=AFQjCNEbBohk5V9Kajw4fDp_G52690FKVQ), [LeafMax](https://sirbeethoven.github.io/LeafMax/), a partial [French translation](http://sirbeethoven.github.io/LeafHacks/pages/Languages/French/index.html), or an alternative (apologies in advance).
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
