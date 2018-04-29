@@ -1277,7 +1277,7 @@ Wallpaper
 23e6 Inkopolis wall **NEW**
 23e7 fruit-panel wall **NEW**
 23e8 Fueki wall **NEW**
-23e9 polka-dot wall **NEW**
+23ea polka-dot wall **NEW**
 
 Carpets
 -------
