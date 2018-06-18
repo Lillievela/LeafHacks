@@ -5367,16 +5367,20 @@ Uncategorized 2
 33a8 custom pattern (easel)
 33a9 custom pattern (frame)
 
-Uncategorized 3
+NPC Items
 ---------------
-33b7 signature sheet
-33b8 petition form
-33b9 paper scrap
-33ba lost item (book)
-33bb lost item (pouch)
-33bc lost item (mitten)
-33bd lost item (paper bag)
-33be towel
+33bc signature sheet
+33bd petition form
+33be paper scrap
+33bf lost item [book]
+33c0 lost item [pouch]
+33c1 lost item [mitten]
+33c2 lost item [paper bag]
+33c3 book
+33c4 pouch
+33c5 mitten
+33c6 paper bag
+33c7 towel
 
 Fortune cookies
 -------------
