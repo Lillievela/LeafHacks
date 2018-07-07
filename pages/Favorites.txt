@@ -16,6 +16,8 @@ Favorites
 5427    Infinite Present
 2ca4    Belpoint ABD
 2eca    7-11 ABD
+2089    wrapping paper
+208a    medicine
 
 Fav. Handhelds
 3353    Gold Net
@@ -27,6 +29,7 @@ Fav. Handhelds
 3365    Toy Hammer
 339e    tweeter
 338e    beans
+334e    silver axe
 
 Fav. Vegetation
 2053    gold-rose bag
