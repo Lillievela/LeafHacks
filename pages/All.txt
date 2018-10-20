@@ -227,6 +227,8 @@ More trees (2)
 0077 cedar (bees)
 0078 cedar (money 1)
 0079 cedar (money 2)
+007A cedar (egg)
+007B cedar (festival)
 
 Bushes
 ------
