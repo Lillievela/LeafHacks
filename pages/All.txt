@@ -1,139 +1,15 @@
-﻿Patterns
---------
-009d Pattern
+﻿7FFE Empty
 
-Outside flowers
----------------
-009f red tulips
-00a0 white tulips
-00a1 yellow tulips
-00a2 pink tulips
-00a3 purple tulips
-00a4 black tulips
-00a5 orange tulips
-00a6 white pansies
-00a7 yellow pansies
-00a8 red pansies
-00a9 purple pansies
-00aa orange pansies
-00ab blue pansies
-00ac white cosmos
-00ad red cosmos
-00ae yellow cosmos
-00af pink cosmos
-00b0 orange cosmos
-00b1 black cosmos
-00b2 red roses
-00b3 white roses
-00b4 yellow roses
-00b5 pink roses
-00b6 orange roses
-00b7 purple roses
-00b8 black roses
-00b9 blue roses
-00ba gold roses
-00bb red carnations
-00bc pink carnations
-00bd white carnations
-00be white lilies
-00bf yellow lilies
-00c0 red lilies
-00c1 orange lilies
-00c2 pink lilies
-00c3 black lilies
-00c4 purple violets
-00c5 blue violets
-00c6 white violets
-00c7 yellow violets
-00c8 Jacob's ladder
-00c9 lucky clovers
-00ca dandelions
-00cb dandelion puffs
-00cc clovers (weed)
-00cd rafflesia
+Enviromental Items
+------------------
 
-Outside flowers (wilted)
-------------------------
-00ce red tulips (wilted)
-00cf white tulips (wilted)
-00d0 yellow tulips (wilted)
-00d1 pink tulips (wilted)
-00d2 purple tulips (wilted)
-00d3 black tulips (wilted)
-00d4 orange tulips (wilted)
-00d5 white pansies (wilted)
-00d6 yellow pansies (wilted)
-00d7 red pansies (wilted)
-00d8 purple pansies (wilted)
-00d9 orange pansies (wilted)
-00da blue pansies (wilted)
-00db white cosmos (wilted)
-00dc red cosmos (wilted)
-00dd yellow cosmos (wilted)
-00de pink cosmos (wilted)
-00df orange cosmos (wilted)
-00e0 black cosmos (wilted)
-00e1 red roses (wilted)
-00e2 white roses (wilted)
-00e3 yellow roses (wilted)
-00e4 pink roses (wilted)
-00e5 orange roses (wilted)
-00e6 purple roses (wilted)
-00e7 black roses (wilted)
-00e8 blue roses (wilted)
-00e9 gold roses (wilted)
-00ea red carnations (wilted)
-00eb pink carnations (wilted)
-00ec white carnations (wilted)
-00ed white lilies (wilted)
-00ee yellow lilies (wilted)
-00ef red lilies (wilted)
-00f0 orange lilies (wilted)
-00f1 pink lilies (wilted)
-00f2 black lilies (wilted)
-00f3 purple violets (wilted)
-00f4 blue violets (wilted)
-00f5 white violets (wilted)
-00f6 yellow violets (wilted)
-00f7 Jacob's ladder (wilted)
-00f8 lucky clovers (wilted)
-00f9 dandelions (wilted)
-00fa dandelion puffs (wilted)
-00fb clovers (weed) (wilted)
-00fc rafflesia (wilted)
-
-Fruit trees
------------
-003a apple tree (growing 1)
-003b apple tree (growing 2)
-003c apple tree (growing 3)
-003d apple tree (growing 4)
-003e apple tree
-003f orange tree (growing 1)
-0040 orange tree (growing 2)
-0041 orange tree (growing 3)
-0042 orange tree (growing 4)
-0043 orange tree
-0044 pear tree (growing 1)
-0045 pear tree (growing 2)
-0046 pear tree (growing 3)
-0047 pear tree (growing 4)
-0048 pear tree
-0049 peaches tree (growing 1)
-004a peaches tree (growing 2)
-004b peaches tree (growing 3)
-004c peaches tree (growing 4)
-004d peaches tree
-004e cherry tree (growing 1)
-004f cherry tree (growing 2)
-0050 cherry tree (growing 3)
-0051 cherry tree (growing 4)
-0052 cherry tree
-
-More trees
-----------
-0005 dead bamboo???
-0006 dead tree
+Normal Trees:
+0001 wilted bush
+0002 wilted tree
+0003 wilted cedar tree
+0004 wilted palm tree
+0005 wilted bamboo
+0006 dead perfect tree
 0007 cut tree (growing 1)
 0008 cut tree (growing 2)
 0009 cut tree (growing 3)
@@ -186,8 +62,32 @@ More trees
 0038 bamboo (growing 3)
 0039 bamboo
 
-More trees (2)
---------------
+Fruit Trees:
+003a apple tree (growing 1)
+003b apple tree (growing 2)
+003c apple tree (growing 3)
+003d apple tree (growing 4)
+003e apple tree
+003f orange tree (growing 1)
+0040 orange tree (growing 2)
+0041 orange tree (growing 3)
+0042 orange tree (growing 4)
+0043 orange tree
+0044 pear tree (growing 1)
+0045 pear tree (growing 2)
+0046 pear tree (growing 3)
+0047 pear tree (growing 4)
+0048 pear tree
+0049 peaches tree (growing 1)
+004a peaches tree (growing 2)
+004b peaches tree (growing 3)
+004c peaches tree (growing 4)
+004d peaches tree
+004e cherry tree (growing 1)
+004f cherry tree (growing 2)
+0050 cherry tree (growing 3)
+0051 cherry tree (growing 4)
+0052 cherry tree
 0053 durian tree (growing 1)
 0054 durian tree (growing 2)
 0055 durian tree (growing 3)
@@ -227,11 +127,16 @@ More trees (2)
 0077 cedar (bees)
 0078 cedar (money 1)
 0079 cedar (money 2)
-007A cedar (egg)
-007B cedar (festival)
+007a cedar (egg)
+007b cedar (xmas)
 
-Bushes
-------
+Weeds:
+007c weed (A)
+007d weed (B)
+007e weed (C)
+007f weed (D)
+
+Bushes:
 0080 holly bush (growing 1)
 0081 holly bush (growing 2)
 0082 holly bush
@@ -257,28 +162,112 @@ Bushes
 0096 sweet olive bush (growing 2)
 0097 sweet olive bush
 
-Weeds
------
-007c weed
-007d weed (2)
-007e weed (3)
-007f weed (4)
+Rocks:
+0098 rock (A)
+0099 rock (B)
+009a rock (C)
+009b rock (D)
+009c rock (E)
 
-Weeds (2)
----------
+Misc:
+009d Pattern
+009e Hole
+
+Outside Flowers:
+009f red tulips
+00a0 white tulips
+00a1 yellow tulips
+00a2 pink tulips
+00a3 purple tulips
+00a4 black tulips
+00a5 orange tulips
+00a6 white pansies
+00a7 yellow pansies
+00a8 red pansies
+00a9 purple pansies
+00aa orange pansies
+00ab blue pansies
+00ac white cosmos
+00ad red cosmos
+00ae yellow cosmos
+00af pink cosmos
+00b0 orange cosmos
+00b1 black cosmos
+00b2 red roses
+00b3 white roses
+00b4 yellow roses
+00b5 pink roses
+00b6 orange roses
+00b7 purple roses
+00b8 black roses
+00b9 blue roses
+00ba gold roses
+00bb red carnations
+00bc pink carnations
+00bd white carnations
+00be white lilies
+00bf yellow lilies
+00c0 red lilies
+00c1 orange lilies
+00c2 pink lilies
+00c3 black lilies
+00c4 purple violets
+00c5 blue violets
+00c6 white violets
+00c7 yellow violets
+00c8 Jacob's ladder
+00c9 lucky clovers
+00ca dandelions
+00cb dandelion puffs
+00cc clovers (weed)
+00cd rafflesia
+
+Outside Flowers (wilted):
+00ce red tulips (wilted)
+00cf white tulips (wilted)
+00d0 yellow tulips (wilted)
+00d1 pink tulips (wilted)
+00d2 purple tulips (wilted)
+00d3 black tulips (wilted)
+00d4 orange tulips (wilted)
+00d5 white pansies (wilted)
+00d6 yellow pansies (wilted)
+00d7 red pansies (wilted)
+00d8 purple pansies (wilted)
+00d9 orange pansies (wilted)
+00da blue pansies (wilted)
+00db white cosmos (wilted)
+00dc red cosmos (wilted)
+00dd yellow cosmos (wilted)
+00de pink cosmos (wilted)
+00df orange cosmos (wilted)
+00e0 black cosmos (wilted)
+00e1 red roses (wilted)
+00e2 white roses (wilted)
+00e3 yellow roses (wilted)
+00e4 pink roses (wilted)
+00e5 orange roses (wilted)
+00e6 purple roses (wilted)
+00e7 black roses (wilted)
+00e8 blue roses (wilted)
+00e9 gold roses (wilted)
+00ea red carnations (wilted)
+00eb pink carnations (wilted)
+00ec white carnations (wilted)
+00ed white lilies (wilted)
+00ee yellow lilies (wilted)
+00ef red lilies (wilted)
+00f0 orange lilies (wilted)
+00f1 pink lilies (wilted)
+00f2 black lilies (wilted)
+00f3 purple violets (wilted)
+00f4 blue violets (wilted)
+00f5 white violets (wilted)
+00f6 yellow violets (wilted)
+00f7 Jacob's ladder (wilted)
 00f8 rafflesia (wilted)
 
-Rocks
------
-0098 rock
-0099 rock (2)
-009a rock (3)
-009b rock (4)
-009c rock (5)
-
-Uncategorized
--------------
-009e hole
+2000 Mii Mask
 
 Fruit
 -----
@@ -342,6 +331,7 @@ Garden
 2034 y. hibiscus shoot
 2035 sweet olive shoot
 2036 present
+2037 present for another villager (Sprite)
 
 Garden (2)
 ----------
@@ -386,6 +376,45 @@ Garden (2)
 205e blue-violet bag
 205f white-violet bag
 2060 yellow-violet bag
+
+NPC Building's Items:
+2061 Uni-Directional Chair (Invisible)
+2062 Café Dining Chair (Invisible)
+2063 Town Hall Chair (Invisible)
+2064 Unknown Two-Seated Chair 1 (Invisible)
+2065 Unknown Two-Seated Chair 2 (Invisible)
+2066 Campsite Log Seat (Invisible)
+2067 RV Right Chair (Invisible)
+2068 RV Left Chair (Invisible)
+2069 RV Unk Chair (Invisible)
+206A Campsite Tree Stump (Invisible)
+206B Campsite Hammock (Invisible)
+206C Dream Suite Bed (Invisible)
+206D Dream Suite Couch (Invisible)
+206E Unknown Big Bed (Invisible)
+206F Museum Cushion Chair (Invisible)
+2073 RV Radio (Invisible)
+2074 DJ K.K. Table
+2075 1x1 Museum Item Podium (Fossils)
+2076 1x2 Museum Item Stand (Dinosaurs)
+2077 2x2 Museum Item Stand (Dinosaurs)
+2078 Unknown Wallpaper
+2079 1x1 Shops Item Hangup
+207A 1x2 Shops Item Hangup
+207B Retail Chair (Invisible)
+207C Island Hut Chair (Invisible)
+207D Harvey's Chair (Invisible)
+207E Moving Boxes
+207F Moving Boxes Medium
+2080 Moving Boxes Large
+2081 Train Station Locker
+2082 Museum Locker
+2083 General Sold-Out Sign
+2084 Gracie Sold-Out Sign
+2085 Retail Sold-Out Sign
+2086 Nooklings Sold-Out Sign (Wall)
+2087 Gracie Sold-Out Sign (Wall)
+2088 Redd Sold-Out Sign
 
 Garden (3)
 ----------
@@ -649,193 +678,193 @@ Songs
 2184 K.K. Disco
 2185 K.K. Birthday
 
-Songs (2)
----------
-2189 K.K. Chorale (1)
-218a K.K. March (1)
-218b K.K. Waltz (1)
-218c K.K. Swing (1)
-218d K.K. Jazz (1)
-218e K.K. Fusion (1)
-218f K.K. Étude (1)
-2190 K.K. Lullaby (1)
-2191 K.K. Aria (1)
-2192 K.K. Samba (1)
-2193 K.K. Bossa (1)
-2194 K.K. Calypso (1)
-2195 K.K. Salsa (1)
-2196 K.K. Mambo (1)
-2197 K.K. Reggae (1)
-2198 K.K. Ska (1)
-2199 K.K. Tango (1)
-219a K.K. Faire (1)
-219b Aloha K.K. (1)
-219c Lucky K.K. (1)
-219d K.K. Condor (1)
-219e K.K. Steppe (1)
-219f Imperial K.K. (1)
-21a0 K.K. Casbah (1)
-21a1 K.K. Safari (1)
-21a2 K.K. Folk (1)
-21a3 K.K. Rock (1)
-21a4 Rockin' K.K. (1)
-21a5 K.K. Ragtime (1)
-21a6 K.K. Gumbo (1)
-21a7 The K. Funk (1)
-21a8 K.K. Blues (1)
-21a9 Soulful K.K. (1)
-21aa K.K. Soul (1)
-21ab K.K. Cruisin' (1)
-21ac K.K. Love Song (1)
-21ad K.K. D&B (1)
-21ae K.K. Technopop (1)
-21af DJ K.K. (1)
-21b0 Only Me (1)
-21b1 K.K. Country (1)
-21b2 Surfin' K.K. (1)
-21b3 K.K. Ballad (1)
-21b4 Comrade K.K. (1)
-21b5 K.K. Lament (1)
-21b6 Go K.K. Rider (1)
-21b7 K.K. Dirge (1)
-21b8 K.K. Western (1)
-21b9 Mr. K.K. (1)
-21ba Café K.K. (1)
-21bb K.K. Parade (1)
-21bc Señor K.K. (1)
-21bd K.K. Song (1)
-21be I Love You (1)
-21bf Two Days Ago (1)
-21c0 My Place (1)
-21c1 Forest Life (1)
-21c2 To the Edge (1)
-21c3 Pondering (1)
-21c4 K.K. Dixie (1)
-21c5 K.K. Marathon (1)
-21c6 King K.K. (1)
-21c7 Mountain Song (1)
-21c8 Marine Song 2001 (1)
-21c9 Neapolitan (1)
-21ca Steep Hill (1)
-21cb K.K. Rockabilly (1)
-21cc Agent K.K. (1)
-21cd K.K. Rally (1)
-21ce K.K. Metal (1)
-21cf Stale Cupcakes (1)
-21d0 Spring Blossoms (1)
-21d1 Wandering (1)
-21d2 K.K. House (1)
-21d3 K.K. Sonata (1)
-21d4 Hypno K.K. (1)
-21d5 K.K. Stroll (1)
-21d6 K.K. Island (1)
-21d7 Space K.K. (1)
-21d8 K.K. Adventure (1)
-21d9 K.K. Oasis (1)
-21da K.K. Bazaar (1)
-21db K.K. Milonga (1)
-21dc K.K. Groove (1)
-21dd K.K. Jongara (1)
-21de K.K. Flamenco (1)
-21df K.K. Moody (1)
-21e0 Bubblegum K.K. (1)
-21e1 K.K. Synth (1)
-21e2 K.K. Disco (1)
-21e3 K.K. Birthday (1)
+Songs (Wall Variants)
+---------------------
+2189 K.K. Chorale (Wall)
+218a K.K. March (Wall)
+218b K.K. Waltz (Wall)
+218c K.K. Swing (Wall)
+218d K.K. Jazz (Wall)
+218e K.K. Fusion (Wall)
+218f K.K. Étude (Wall)
+2190 K.K. Lullaby (Wall)
+2191 K.K. Aria (Wall)
+2192 K.K. Samba (Wall)
+2193 K.K. Bossa (Wall)
+2194 K.K. Calypso (Wall)
+2195 K.K. Salsa (Wall)
+2196 K.K. Mambo (Wall)
+2197 K.K. Reggae (Wall)
+2198 K.K. Ska (Wall)
+2199 K.K. Tango (Wall)
+219a K.K. Faire (Wall)
+219b Aloha K.K. (Wall)
+219c Lucky K.K. (Wall)
+219d K.K. Condor (Wall)
+219e K.K. Steppe (Wall)
+219f Imperial K.K. (Wall)
+21a0 K.K. Casbah (Wall)
+21a1 K.K. Safari (Wall)
+21a2 K.K. Folk (Wall)
+21a3 K.K. Rock (Wall)
+21a4 Rockin' K.K. (Wall)
+21a5 K.K. Ragtime (Wall)
+21a6 K.K. Gumbo (Wall)
+21a7 The K. Funk (Wall)
+21a8 K.K. Blues (Wall)
+21a9 Soulful K.K. (Wall)
+21aa K.K. Soul (Wall)
+21ab K.K. Cruisin' (Wall)
+21ac K.K. Love Song (Wall)
+21ad K.K. D&B (Wall)
+21ae K.K. Technopop (Wall)
+21af DJ K.K. (Wall)
+21b0 Only Me (Wall)
+21b1 K.K. Country (Wall)
+21b2 Surfin' K.K. (Wall)
+21b3 K.K. Ballad (Wall)
+21b4 Comrade K.K. (Wall)
+21b5 K.K. Lament (Wall)
+21b6 Go K.K. Rider (Wall)
+21b7 K.K. Dirge (Wall)
+21b8 K.K. Western (Wall)
+21b9 Mr. K.K. (Wall)
+21ba Café K.K. (Wall)
+21bb K.K. Parade (Wall)
+21bc Señor K.K. (Wall)
+21bd K.K. Song (Wall)
+21be I Love You (Wall)
+21bf Two Days Ago (Wall)
+21c0 My Place (Wall)
+21c1 Forest Life (Wall)
+21c2 To the Edge (Wall)
+21c3 Pondering (Wall)
+21c4 K.K. Dixie (Wall)
+21c5 K.K. Marathon (Wall)
+21c6 King K.K. (Wall)
+21c7 Mountain Song (Wall)
+21c8 Marine Song 2001 (Wall)
+21c9 Neapolitan (Wall)
+21ca Steep Hill (Wall)
+21cb K.K. Rockabilly (Wall)
+21cc Agent K.K. (Wall)
+21cd K.K. Rally (Wall)
+21ce K.K. Metal (Wall)
+21cf Stale Cupcakes (Wall)
+21d0 Spring Blossoms (Wall)
+21d1 Wandering (Wall)
+21d2 K.K. House (Wall)
+21d3 K.K. Sonata (Wall)
+21d4 Hypno K.K. (Wall)
+21d5 K.K. Stroll (Wall)
+21d6 K.K. Island (Wall)
+21d7 Space K.K. (Wall)
+21d8 K.K. Adventure (Wall)
+21d9 K.K. Oasis (Wall)
+21da K.K. Bazaar (Wall)
+21db K.K. Milonga (Wall)
+21dc K.K. Groove (Wall)
+21dd K.K. Jongara (Wall)
+21de K.K. Flamenco (Wall)
+21df K.K. Moody (Wall)
+21e0 Bubblegum K.K. (Wall)
+21e1 K.K. Synth (Wall)
+21e2 K.K. Disco (Wall)
+21e3 K.K. Birthday (Wall)
 
-Songs (seashell player)
+Songs (Music Boxes)
 -----------------------
-21e4 K.K. Chorale (seashell player)
-21e5 K.K. March (seashell player)
-21e6 K.K. Waltz (seashell player)
-21e7 K.K. Swing (seashell player)
-21e8 K.K. Jazz (seashell player)
-21e9 K.K. Fusion (seashell player)
-21ea K.K. Étude (seashell player)
-21eb K.K. Lullaby (seashell player)
-21ec K.K. Aria (seashell player)
-21ed K.K. Samba (seashell player)
-21ee K.K. Bossa (seashell player)
-21ef K.K. Calypso (seashell player)
-21f0 K.K. Salsa (seashell player)
-21f1 K.K. Mambo (seashell player)
-21f2 K.K. Reggae (seashell player)
-21f3 K.K. Ska (seashell player)
-21f4 K.K. Tango (seashell player)
-21f5 K.K. Faire (seashell player)
-21f6 Aloha K.K. (seashell player)
-21f7 Lucky K.K. (seashell player)
-21f8 K.K. Condor (seashell player)
-21f9 K.K. Steppe (seashell player)
-21fa Imperial K.K. (seashell player)
-21fb K.K. Casbah (seashell player)
-21fc K.K. Safari (seashell player)
-21fd K.K. Folk (seashell player)
-21fe K.K. Rock (seashell player)
-21ff Rockin' K.K. (seashell player)
-2200 K.K. Ragtime (seashell player)
-2201 K.K. Gumbo (seashell player)
-2202 The K. Funk (seashell player)
-2203 K.K. Blues (seashell player)
-2204 Soulful K.K. (seashell player)
-2205 K.K. Soul (seashell player)
-2206 K.K. Cruisin' (seashell player)
-2207 K.K. Love Song (seashell player)
-2208 K.K. D&B (seashell player)
-2209 K.K. Technopop (seashell player)
-220a DJ K.K. (seashell player)
-220b Only Me (seashell player)
-220c K.K. Country (seashell player)
-220d Surfin' K.K. (seashell player)
-220e K.K. Ballad (seashell player)
-220f Comrade K.K. (seashell player)
-2210 K.K. Lament (seashell player)
-2211 Go K.K. Rider (seashell player)
-2212 K.K. Dirge (seashell player)
-2213 K.K. Western (seashell player)
-2214 Mr. K.K. (seashell player)
-2215 Café K.K. (seashell player)
-2216 K.K. Parade (seashell player)
-2217 Señor K.K. (seashell player)
-2218 K.K. Song (seashell player)
-2219 I Love You (seashell player)
-221a Two Days Ago (seashell player)
-221b My Place (seashell player)
-221c Forest Life (seashell player)
-221d To the Edge (seashell player)
-221e Pondering (seashell player)
-221f K.K. Dixie (seashell player)
-2220 K.K. Marathon (seashell player)
-2221 King K.K. (seashell player)
-2222 Mountain Song (seashell player)
-2223 Marine Song 2001 (seashell player)
-2224 Neapolitan (seashell player)
-2225 Steep Hill (seashell player)
-2226 K.K. Rockabilly (seashell player)
-2227 Agent K.K. (seashell player)
-2228 K.K. Rally (seashell player)
-2229 K.K. Metal (seashell player)
-222a Stale Cupcakes (seashell player)
-222b Spring Blossoms (seashell player)
-222c Wandering (seashell player)
-222d K.K. House (seashell player)
-222e K.K. Sonata (seashell player)
-222f Hypno K.K. (seashell player)
-2230 K.K. Stroll (seashell player)
-2231 K.K. Island (seashell player)
-2232 Space K.K. (seashell player)
-2233 K.K. Adventure (seashell player)
-2234 K.K. Oasis (seashell player)
-2235 K.K. Bazaar (seashell player)
-2236 K.K. Milonga (seashell player)
-2237 K.K. Groove (seashell player)
-2238 K.K. Jongara (seashell player)
-2239 K.K. Flamenco (seashell player)
-223a K.K. Moody (seashell player)
-223b Bubblegum K.K. (seashell player)
-223c K.K. Synth (seashell player)
-223d K.K. Disco (seashell player)
-223e K.K. Birthday (seashell player)
+21e4 K.K. Chorale (Music Box)
+21e5 K.K. March (Music Box)
+21e6 K.K. Waltz (Music Box)
+21e7 K.K. Swing (Music Box)
+21e8 K.K. Jazz (Music Box)
+21e9 K.K. Fusion (Music Box)
+21ea K.K. Étude (Music Box)
+21eb K.K. Lullaby (Music Box)
+21ec K.K. Aria (Music Box)
+21ed K.K. Samba (Music Box)
+21ee K.K. Bossa (Music Box)
+21ef K.K. Calypso (Music Box)
+21f0 K.K. Salsa (Music Box)
+21f1 K.K. Mambo (Music Box)
+21f2 K.K. Reggae (Music Box)
+21f3 K.K. Ska (Music Box)
+21f4 K.K. Tango (Music Box)
+21f5 K.K. Faire (Music Box)
+21f6 Aloha K.K. (Music Box)
+21f7 Lucky K.K. (Music Box)
+21f8 K.K. Condor (Music Box)
+21f9 K.K. Steppe (Music Box)
+21fa Imperial K.K. (Music Box)
+21fb K.K. Casbah (Music Box)
+21fc K.K. Safari (Music Box)
+21fd K.K. Folk (Music Box)
+21fe K.K. Rock (Music Box)
+21ff Rockin' K.K. (Music Box)
+2200 K.K. Ragtime (Music Box)
+2201 K.K. Gumbo (Music Box)
+2202 The K. Funk (Music Box)
+2203 K.K. Blues (Music Box)
+2204 Soulful K.K. (Music Box)
+2205 K.K. Soul (Music Box)
+2206 K.K. Cruisin' (Music Box)
+2207 K.K. Love Song (Music Box)
+2208 K.K. D&B (Music Box)
+2209 K.K. Technopop (Music Box)
+220a DJ K.K. (Music Box)
+220b Only Me (Music Box)
+220c K.K. Country (Music Box)
+220d Surfin' K.K. (Music Box)
+220e K.K. Ballad (Music Box)
+220f Comrade K.K. (Music Box)
+2210 K.K. Lament (Music Box)
+2211 Go K.K. Rider (Music Box)
+2212 K.K. Dirge (Music Box)
+2213 K.K. Western (Music Box)
+2214 Mr. K.K. (Music Box)
+2215 Café K.K. (Music Box)
+2216 K.K. Parade (Music Box)
+2217 Señor K.K. (Music Box)
+2218 K.K. Song (Music Box)
+2219 I Love You (Music Box)
+221a Two Days Ago (Music Box)
+221b My Place (Music Box)
+221c Forest Life (Music Box)
+221d To the Edge (Music Box)
+221e Pondering (Music Box)
+221f K.K. Dixie (Music Box)
+2220 K.K. Marathon (Music Box)
+2221 King K.K. (Music Box)
+2222 Mountain Song (Music Box)
+2223 Marine Song 2001 (Music Box)
+2224 Neapolitan (Music Box)
+2225 Steep Hill (Music Box)
+2226 K.K. Rockabilly (Music Box)
+2227 Agent K.K. (Music Box)
+2228 K.K. Rally (Music Box)
+2229 K.K. Metal (Music Box)
+222a Stale Cupcakes (Music Box)
+222b Spring Blossoms (Music Box)
+222c Wandering (Music Box)
+222d K.K. House (Music Box)
+222e K.K. Sonata (Music Box)
+222f Hypno K.K. (Music Box)
+2230 K.K. Stroll (Music Box)
+2231 K.K. Island (Music Box)
+2232 Space K.K. (Music Box)
+2233 K.K. Adventure (Music Box)
+2234 K.K. Oasis (Music Box)
+2235 K.K. Bazaar (Music Box)
+2236 K.K. Milonga (Music Box)
+2237 K.K. Groove (Music Box)
+2238 K.K. Jongara (Music Box)
+2239 K.K. Flamenco (Music Box)
+223a K.K. Moody (Music Box)
+223b Bubblegum K.K. (Music Box)
+223c K.K. Synth (Music Box)
+223d K.K. Disco (Music Box)
+223e K.K. Birthday (Music Box)
 
 Paper
 -----
@@ -1454,6 +1483,8 @@ Carpets
 
 Shirts
 ------
+2493 Male Vest (Unused)
+2494 Female Vest (Unused)
 2495 one-ball tee
 2496 two-ball tee
 2497 three-ball tee
@@ -4564,6 +4595,11 @@ Furniture
 30a0 Fueki stereo **NEW**
 30a1 Fueki table **NEW**
 30a2 fruit-panel cushion **NEW**
+30A3 Cow skull (unused)
+30A4 Cow skull (unused 2)
+30A5 Nook Homes Mat
+30A6 K.K. Guitar case
+30A7 Cow skull (unused 3)
 30a8 sewing kit **NEW**
 30a9 quilted tapestry **NEW**
 30aa durian flower basket **NEW**
@@ -4601,10 +4637,12 @@ Furniture
 
 Mannequins
 ----------
-30cc mannequin 1
-30cd mannequin 2
-30ce mannequin 3
-30cf mannequin 4
+30cc Mannequin #1
+30cd Mannequin #2
+30ce Mannequin #3
+30cf Mannequin #4
+30d0 Gracie Display Mannequin #1
+30d1 Gracie Display Mannequin #2
 
 Art
 ---
@@ -4664,63 +4702,47 @@ Art
 3107 ancient statue (fake)
 3108 motherly statue (fake)
 
-Art (2?)
---------
-3109 dynamic painting (2?)
-310a solemn painting (2?)
-310b quaint painting (2?)
-310c basic painting (2?)
-310d famous painting (2?)
-310e perfect painting (2?)
-310f amazing painting (2?)
-3110 nice painting (2?)
-3111 moving painting (2?)
-3112 common painting (2?)
-3113 flowery painting (2?)
-3114 warm painting (2?)
-3115 jolly painting (2?)
-3116 fine painting (2?)
-3117 scary painting (2?)
-3118 proper painting (2?)
-3119 neutral painting (2?)
-311a worthy painting (2?)
-311b calm painting (2?)
-311c moody painting (2?)
-311d wistful painting (2?)
-311e serene painting (2?)
-311f scenic painting (2?)
-3120 wild painting (2?)
-3121 graceful painting (2?)
-3122 beautiful statue (2?)
-3123 valiant statue (2?)
-3124 gallant statue (2?)
-3125 robust statue (2?)
-3126 great statue (2?)
-3127 mystic statue (2?)
-3128 ancient statue (2?)
-3129 motherly statue (2?)
-312a dynamic painting (fake) (2?)
-312b solemn painting (fake) (2?)
-312c quaint painting (fake) (2?)
-312d basic painting (fake) (2?)
-312e famous painting (fake) (2?)
-312f amazing painting (fake) (2?)
-3130 moving painting (fake) (2?)
-3131 jolly painting (fake) (2?)
-3132 scary painting (fake) (2?)
-3133 neutral painting (fake) (2?)
-3134 wistful painting (fake) (2?)
-3135 serene painting (fake) (2?)
-3136 wild painting (fake) (2?)
-3137 graceful painting (fake) (2?)
-3138 beautiful statue (fake) (2?)
-3139 valiant statue (fake) (2?)
-313a gallant statue (fake) (2?)
-313b robust statue (fake) (2?)
-313c great statue (fake) (2?)
-313d mystic statue (fake) (2?)
-313e ancient statue (fake) (2?)
-313f motherly statue (fake) (2?)
+Art (Wall Variants)
+-------------------
+3109 dynamic painting (Wall)
+310a solemn painting (Wall)
+310b quaint painting (Wall)
+310c basic painting (Wall)
+310d famous painting (Wall)
+310e perfect painting (Wall)
+310f amazing painting (Wall)
+3110 nice painting (Wall)
+3111 moving painting (Wall)
+3112 common painting (Wall)
+3113 flowery painting (Wall)
+3114 warm painting (Wall)
+3115 jolly painting (Wall)
+3116 fine painting (Wall)
+3117 scary painting (Wall)
+3118 proper painting (Wall)
+3119 neutral painting (Wall)
+311a worthy painting (Wall)
+311b calm painting (Wall)
+311c moody painting (Wall)
+311d wistful painting (Wall)
+311e serene painting (Wall)
+311f scenic painting (Wall)
+3120 wild painting (Wall)
+3121 graceful painting (Wall)
+3122 dynamic painting (fake) (Wall)
+3123 solemn painting (fake) (Wall)
+3124 quaint painting (fake) (Wall)
+3125 basic painting (fake) (Wall)
+3126 famous painting (fake) (Wall)
+3127 amazing painting (fake) (Wall)
+3128 moving painting (fake) (Wall)
+3129 jolly painting (fake) (Wall)
+312A scary painting (fake) (Wall)
+312B neutral painting (fake) (Wall)
+312C wistful painting (fake) (Wall)
+312D serene painting (fake) (Wall)
+312E wild painting (fake) (Wall)
+312F graceful painting (fake) (Wall)
 
 Fossils
 -------
@@ -5012,6 +5034,7 @@ Pics
 324a pic of Clay
 324b pic of Flurry
 324c pic of Hamphrey
+324d pic of Holden (Unused) **NEW**
 324e pic of Rocco
 324f pic of Bubbles
 3250 pic of Bertha
@@ -5033,6 +5056,7 @@ Pics
 3260 pic of Colton
 3261 pic of Papi
 3262 pic of Julian
+3263 pic of Filly (Unused) **NEW**
 3264 pic of Epona **NEW**
 3265 pic of Yuka
 3266 pic of Alice
@@ -5269,7 +5293,7 @@ Pics (special)
 334a pic of Wendell **NEW**
 334b pic of Lottie **NEW**
 
-Tools & wearables
+Tools & Wearables
 -----------------
 334c rental axe
 334d axe
@@ -5365,12 +5389,33 @@ Uncategorized 2
 33a4 good coffee beans
 33a5 superb coffee beans
 33a6 chocolate coin
-33a7 custom shirt
-33a8 custom pattern (easel)
-33a9 custom pattern (frame)
+
+Custom Pattern Items
+--------------------
+33A7 Custom Shirt
+33A8 Pattern Easel
+33A9 Pattern Wall Canvas
+33AA Custom Design Umbrella 
+33AB Custom Design Horned Hat
+33AC Custom Design Female Hat
+33AD Custom Design Knit Hat
+33AE Custom Design T-Shirt
+33AF Custom Design Tank Shirt
+33B0 Custom Design T-Shirt (Distorted Sleeves)
+33B1 Custom Design Long Sleeve Shirt
+33B2 Custom Design Tank Dress
+33B3 Custom Design Sleeve Dress
+33B4 Custom Design Long Sleeve Dress
+33B5 Custom Design T-Shirt (Wall)
+33B6 Custom Design Tank Shirt (Wall)
+33B7 Custom Design T-Shirt (Distorted Sleeves) (Wall)
+33B8 Custom Design Long Sleeve Shirt (Wall)
+33B9 Custom Design Tank Dress (Wall)
+33BA Custom Design Sleeve Dress (Wall)
+33BB Custom Design Long Sleeve Dress (Wall)
 
 NPC Items
----------------
+---------
 33bc signature sheet
 33bd petition form
 33be paper scrap
@@ -5458,6 +5503,23 @@ Tickets
 340a kaboom ticket
 340b pop ticket
 
+Item Sprites
+------------
+340C Bronze Badge (Sprite)
+340D Silver Badge (Sprite)
+340E Gold Badge (Sprite)
+340F Map (Sprite)
+3410 TPC (Sprite)
+3411 Lost Book (Sprite)
+3412 Mail (Sprite)
+3413 Flower Seed (Sprite)
+3414 Basic Sapling (Sprite)
+3415 Cedar Sapling (Sprite)
+3416 Palm Sapling (Sprite)
+3417 Gold Trophy (Sprite)
+3418 Silver Trophy (Sprite)
+3419 Bronze Trophy (Sprite)
+
 In-game events
 --------------
 341a bingo card
@@ -5465,25 +5527,16 @@ In-game events
 341c time capsule
 341d scavenger-hunt list
 
-Unused furniture (only inside)
-------------------------------
-2078 K.K. DJ table
-2079 museum stand (fossil)
-207a museum stand (small)
-207b museum stand (big)
-207c Reese's stand (small)
-207d Reese's stand (big)
-207e moving boxes (1)
-207f moving boxes (2)
-2080 moving boxes (3)
-2081 train station locker (1)
-2082 train station locker (2)
-2083 sold out
-2084 sold out (Gracie)
-2085 sold out (Reese)
-2086 sold out (invisible spot)
-2087 sold out (invisible spot)
-2088 sold out (Redd)
+Item Sprites #2
+---------------
+341E    Club Tortimer Form (Sprite)
+341F    "Red Flowers" (Sprite)
+3420    "White Flowers" (Sprite)
+3421    "Yellow Flowers" (Sprite)
+3422    "Tulips" (Sprite)
+3423    "Pansies" (Sprite)
+3424    "Cosmos" (Sprite)
+3425    "Roses" (Sprite)
 
 HRA exhibition (only inside)
 ----------------------------
@@ -5656,11 +5709,619 @@ HRA exhibition (only inside)
 34cc castle
 34cd modern house
 
-Presents
---------
-4de7 wrapping paper
+Shirts (Wall Variants)
+---------------------
+34CE one-ball tee (Wall)
+34CF two-ball tee (Wall)
+34D0 three-ball tee (Wall)
+34D1 four-ball tee (Wall)
+34D2 five-ball tee (Wall)
+34D3 six-ball tee (Wall)
+34D4 seven-ball tee (Wall)
+34D5 eight-ball tee (Wall)
+34D6 nine-ball tee (Wall)
+34D7 paw tee (Wall)
+34D8 daisy tee (Wall)
+34D9 tulip tee (Wall)
+34DA cherry tee (Wall)
+34DB skull tee (Wall)
+34DC U-R-here tee (Wall)
+34DD lightning tee (Wall)
+34DE MVP tee (Wall)
+34DF BB tee (Wall)
+34E0 fish tee (Wall)
+34E1 frog tee (Wall)
+34E2 bear tee (Wall)
+34E3 bunny tee (Wall)
+34E4 bunny shirt (Wall)
+34E5 elephant tee (Wall)
+34E6 spade tee (Wall)
+34E7 diamond tee (Wall)
+34E8 club tee (Wall)
+34E9 heart tee (Wall)
+34EA big-star tee (Wall)
+34EB bright tee (Wall)
+34EC A tee (Wall)
+34ED No. 1 shirt (Wall)
+34EE No. 2 shirt (Wall)
+34EF No. 3 shirt (Wall)
+34F0 No. 4 shirt (Wall)
+34F1 No. 5 shirt (Wall)
+34F2 No. 23 shirt (Wall)
+34F3 No. 67 shirt (Wall)
+34F4 big bro's tee (Wall)
+34F5 li'l bro's tee (Wall)
+34F6 cloudy tee (Wall)
+34F7 fresh tee (Wall)
+34F8 dawn tee (Wall)
+34F9 misty tee (Wall)
+34FA sunset tee (Wall)
+34FB deep-blue tee (Wall)
+34FC peachy tee (Wall)
+34FD rainbow tee (Wall)
+34FE sno-cone tee (Wall)
+34FF orange tie-dye tee (Wall)
+3500 purple tie-dye tee (Wall)
+3501 green tie-dye tee (Wall)
+3502 blue tie-dye tee (Wall)
+3503 red tie-dye tee (Wall)
+3504 bold-check tee (Wall)
+3505 café tee (Wall)
+3506 checkered tee (Wall)
+3507 blue-check tee (Wall)
+3508 red-check tee (Wall)
+3509 dogtooth tee (Wall)
+350A tan dogtooth tee (Wall)
+350B rugby tee (Wall)
+350C green-bar tee (Wall)
+350D yellow-bar tee (Wall)
+350E grape-stripe tee (Wall)
+350F beatnik tee (Wall)
+3510 red-bar tee (Wall)
+3511 blue-stripe tee (Wall)
+3512 blue-stripe shirt (Wall)
+3513 gelato tee (Wall)
+3514 chain-gang tee (Wall)
+3515 speedway tee (Wall)
+3516 yellow tartan tee (Wall)
+3517 fall plaid tee (Wall)
+3518 blue tartan tee (Wall)
+3519 dapper tee (Wall)
+351A natty tee (Wall)
+351B blue-grid tee (Wall)
+351C red-grid tee (Wall)
+351D dazed tee (Wall)
+351E checkerboard tee (Wall)
+351F Toad tee (Wall)
+3520 dark polka tee (Wall)
+3521 lite polka tee (Wall)
+3522 bubble-gum tee (Wall)
+3523 funky-dot tee (Wall)
+3524 gumdrop tee (Wall)
+3525 big-dot tee (Wall)
+3526 aqua polka tee (Wall)
+3527 blue-bar tee (Wall)
+3528 gold-bar tee (Wall)
+3529 brown-bar tee (Wall)
+352A vegetarian tee (Wall)
+352B racer tee (Wall)
+352C pastel-stripe tee (Wall)
+352D rally tee (Wall)
+352E racer 6 tee (Wall)
+352F vertigo tee (Wall)
+3530 barber tee (Wall)
+3531 jade plaid tee (Wall)
+3532 blue plaid tee (Wall)
+3533 mint gingham tee (Wall)
+3534 picnic tee (Wall)
+3535 candy gingham tee (Wall)
+3536 lemon gingham tee (Wall)
+3537 melon gingham tee (Wall)
+3538 bad plaid tee (Wall)
+3539 pink tartan tee (Wall)
+353A waffle tee (Wall)
+353B gray tartan tee (Wall)
+353C gray tartan shirt (Wall)
+353D red argyle shirt (Wall)
+353E red argyle tee (Wall)
+353F blue argyle shirt (Wall)
+3540 blue argyle tee (Wall)
+3541 pink argyle shirt (Wall)
+3542 pink argyle tee (Wall)
+3543 cyan argyle shirt (Wall)
+3544 cyan argyle tee (Wall)
+3545 chevron shirt (Wall)
+3546 icy shirt (Wall)
+3547 aurora knit shirt (Wall)
+3548 winter sweater (Wall)
+3549 folk shirt (Wall)
+354A argyle knit shirt (Wall)
+354B uncommon shirt (Wall)
+354C comfy sweater (Wall)
+354D beige knit shirt (Wall)
+354E earthy knit shirt (Wall)
+354F spring shirt (Wall)
+3550 lively knit shirt (Wall)
+3551 deer shirt (Wall)
+3552 monkey shirt (Wall)
+3553 chocomint tee (Wall)
+3554 fern tee (Wall)
+3555 leaf tee (Wall)
+3556 fall leaf tee (Wall)
+3557 straw shirt (Wall)
+3558 grass tee (Wall)
+3559 snow shirt (Wall)
+355A lovely tee (Wall)
+355B bubble tee (Wall)
+355C chichi-print tee (Wall)
+355D coral tee (Wall)
+355E groovy tee (Wall)
+355F flame tee (Wall)
+3560 danger tee (Wall)
+3561 Gracie tank (Wall)
+3562 future tank (Wall)
+3563 optical shirt (Wall)
+3564 twinkle tee (Wall)
+3565 star tee (Wall)
+3566 night-sky tee (Wall)
+3567 amethyst tank (Wall)
+3568 nebula tee (Wall)
+3569 dice tank (Wall)
+356A kiddie tee (Wall)
+356B airy tee (Wall)
+356C crossing shirt (Wall)
+356D splendid tee (Wall)
+356E jagged tee (Wall)
+356F subdued-print tee (Wall)
+3570 sharp outfit (Wall)
+3571 painter's tee (Wall)
+3572 jungle-camo tee (Wall)
+3573 arctic-camo tee (Wall)
+3574 desert-camo tee (Wall)
+3575 circuit tank (Wall)
+3576 pulse tank (Wall)
+3577 zebra tee (Wall)
+3578 tiger tee (Wall)
+3579 cow tee (Wall)
+357A leopard tee (Wall)
+357B giraffe tee (Wall)
+357C ladybug tank (Wall)
+357D spiderweb tee (Wall)
+357E caterpillar tank (Wall)
+357F fiendish shirt (Wall)
+3580 citrus tee (Wall)
+3581 kiwi tee (Wall)
+3582 watermelon tee (Wall)
+3583 strawberry tee (Wall)
+3584 grape tee (Wall)
+3585 melon tee (Wall)
+3586 pink wave tank (Wall)
+3587 flan tank (Wall)
+3588 hot-dog tank (Wall)
+3589 sandwich tank (Wall)
+358A noodle tee (Wall)
+358B sundae tank (Wall)
+358C dragon suit (Wall)
+358D periwinkle tee (Wall)
+358E hot spring tee (Wall)
+358F new spring tee (Wall)
+3590 crewel tee (Wall)
+3591 tropical tee (Wall)
+3592 corseted shirt (Wall)
+3593 noble shirt (Wall)
+3594 red aloha tee (Wall)
+3595 blue aloha tee (Wall)
+3596 western shirt (Wall)
+3597 royal shirt (Wall)
+3598 firefighter shirt (Wall)
+3599 doctor's coat (Wall)
+359A bone shirt (Wall)
+359B zipper shirt (Wall)
+359C mummy shirt (Wall)
+359D military uniform (Wall)
+359E sailor's tee (Wall)
+359F reggae tee (Wall)
+35A0 camel shirt (Wall)
+35A1 concierge shirt (Wall)
+35A2 tuxedo (Wall)
+35A3 explorer tee (Wall)
+35A4 soccer tee (Wall)
+35A5 red down jacket (Wall)
+35A6 blue down jacket (Wall)
+35A7 cavalier shirt (Wall)
+35A8 beaded shirt (Wall)
+35A9 wrap shirt (Wall)
+35AA wrestler tank (Wall)
+35AB security tee (Wall)
+35AC bear costume (Wall)
+35AD frog costume (Wall)
+35AE kappa costume (Wall)
+35AF imperial shirt (Wall)
+35B0 racing shirt (Wall)
+35B1 orange jacket (Wall)
+35B2 tin shirt (Wall)
+35B3 scale-armor suit (Wall)
+35B4 armor suit (Wall)
+35B5 gold-armor suit (Wall)
+35B6 striking outfit (Wall)
+35B7 red warm-up suit (Wall)
+35B8 baseball shirt (Wall)
+35B9 red gym tee (Wall)
+35BA blue gym tee (Wall)
+35BB space suit (Wall)
+35BC caveman tank (Wall)
+35BD kung-fu tee (Wall)
+35BE pleather vest (Wall)
+35BF cycling shirt (Wall)
+35C0 cycling tee (Wall)
+35C1 chef's outfit (Wall)
+35C2 genie shirt (Wall)
+35C3 folk tunic (Wall)
+35C4 red-zap suit (Wall)
+35C5 blue-zap suit (Wall)
+35C6 green-zap suit (Wall)
+35C7 samurai shirt (Wall)
+35C8 patched shirt (Wall)
+35C9 hero's clothes (Wall)
+35CA Varia Suit (Wall)
+35CB team NTDO tee (Wall)
+35CC gray parka (Wall)
+35CD fishing vest (Wall)
+35CE captain's jacket (Wall)
+35CF ninja shirt (Wall)
+35D0 detective outfit (Wall)
+35D1 Santa coat (Wall)
+35D2 chick tee (Wall)
+35D3 scale-print tee (Wall)
+35D4 jinbei top (Wall)
+35D5 kanji tee (Wall)
+35D6 raglan shirt (Wall)
+35D7 happi tee (Wall)
+35D8 red letter jacket (Wall)
+35D9 blue letter jacket (Wall)
+35DA black letter jacket (Wall)
+35DB tiger jacket (Wall)
+35DC dragon jacket (Wall)
+35DD red flannel shirt (Wall)
+35DE blue flannel shirt (Wall)
+35DF black flannel shirt (Wall)
+35E0 pink-bud tank (Wall)
+35E1 garden tank (Wall)
+35E2 lacy white tank (Wall)
+35E3 pink tank (Wall)
+35E4 hanten shirt (Wall)
+35E5 work shirt (Wall)
+35E6 tan puffy vest (Wall)
+35E7 after-school jacket (Wall)
+35E8 kids' smock (Wall)
+35E9 school jacket (Wall)
+35EA mint shirt (Wall)
+35EB denim jacket (Wall)
+35EC prism tee (Wall)
+35ED denim vest (Wall)
+35EE green gym tee (Wall)
+35EF green emblem blazer (Wall)
+35F0 acid-washed jacket (Wall)
+35F1 red ringmaster coat (Wall)
+35F2 white tuxedo jacket (Wall)
+35F3 black-denim jacket (Wall)
+35F4 basketball tank (Wall)
+35F5 Iberian jacket (Wall)
+35F6 pink parka (Wall)
+35F7 jockey shirt (Wall)
+35F8 blue track jacket (Wall)
+35F9 sweater-vest (Wall)
+35FA waistcoat (Wall)
+35FB black track jacket (Wall)
+35FC beige emblem blazer (Wall)
+35FD clerk's shirt (Wall)
+35FE green warm-up jacket (Wall)
+35FF blue ringmaster coat (Wall)
+3600 relay tank (Wall)
+3601 snowy sweater (Wall)
+3602 red jacket (Wall)
+3603 blue jacket (Wall)
+3604 floral knit tee (Wall)
+3605 dreamy tee (Wall)
+3606 pop bloom tee (Wall)
+3607 silk bloom tee (Wall)
+3608 blossom tee (Wall)
+3609 yellow aloha tee (Wall)
+360A loud bloom tee (Wall)
+360B rose-sky tee (Wall)
+360C blue diamond shirt (Wall)
+360D lotus tee (Wall)
+360E rose tee (Wall)
+360F pep-squad tee (Wall)
+3610 jester shirt (Wall)
+3611 swell shirt (Wall)
+3612 go-go shirt (Wall)
+3613 Festivale tank (Wall)
+3614 pink pj shirt (Wall)
+3615 blue pj shirt (Wall)
+3616 canary shirt (Wall)
+3617 flight-crew shirt (Wall)
+3618 café uniform (Wall)
+3619 peacoat (Wall)
+361A shearling coat (Wall)
+361B mod shirt (Wall)
+361C tacky sweater (Wall)
+361D sunflower tee (Wall)
+361E green-stripe tank (Wall)
+361F gray tank (Wall)
+3620 preppy shirt (Wall)
+3621 flowery tee (Wall)
+3622 HHA tee (Wall)
+3623 HHA jacket (Wall)
+3624 Dr. Shrunk's jacket (Wall)
+3625 24-hour-shop uniform (Wall)
+3626 swell tee (Wall)
+3627 blue diamond tee (Wall)
+3628 raglan tee (Wall)
+3629 MVP shirt (Wall)
+362A jade plaid shirt (Wall)
+362B red-check shirt (Wall)
+362C rugby shirt (Wall)
+362D painter's shirt (Wall)
+362E pulse shirt (Wall)
+362F toad shirt (Wall)
+3630 sailor's shirt (Wall)
+3631 frog shirt (Wall)
+3632 blue-grid shirt (Wall)
+3633 kung-fu shirt (Wall)
+3634 tan dogtooth shirt (Wall)
+3635 bad plaid shirt (Wall)
+3636 fern shirt (Wall)
+3637 arctic-camo shirt (Wall)
+3638 fall leaf shirt (Wall)
+3639 elephant shirt (Wall)
+363A red-grid shirt (Wall)
+363B chain-gang shirt (Wall)
+363C dogtooth shirt (Wall)
+363D moldy shirt (Wall)
+363E waffle shirt (Wall)
+363F vegetarian shirt (Wall)
+3640 blue-check shirt (Wall)
+3641 picnic shirt (Wall)
+3642 natty shirt (Wall)
+3643 pink tartan shirt (Wall)
+3644 checkerboard shirt (Wall)
+3645 dark polka shirt (Wall)
+3646 lemon gingham shirt (Wall)
+3647 brown-bar shirt (Wall)
+3648 dazed shirt (Wall)
+3649 nebula shirt (Wall)
+364A bubble-gum shirt (Wall)
+364B blue-bar shirt (Wall)
+364C lite polka shirt (Wall)
+364D yellow-bar shirt (Wall)
+364E yellow tartan shirt (Wall)
+364F amethyst shirt (Wall)
+3650 soccer shirt (Wall)
+3651 grape-stripe shirt (Wall)
+3652 red-bar shirt (Wall)
+3653 candy gingham shirt (Wall)
+3654 skull shirt (Wall)
+3655 flame shirt (Wall)
+3656 vertigo shirt (Wall)
+3657 green-bar shirt (Wall)
+3658 gelato shirt (Wall)
+3659 dapper shirt (Wall)
+365A desert-camo shirt (Wall)
+365B jungle-camo shirt (Wall)
+365C beatnik shirt (Wall)
+365D gold-bar shirt (Wall)
+365E fall plaid shirt (Wall)
+365F blue tartan shirt (Wall)
+3660 mint gingham shirt (Wall)
+3661 bear shirt (Wall)
+3662 melon gingham shirt (Wall)
+3663 blue plaid shirt (Wall)
+3664 melon shirt (Wall)
+3665 watermelon shirt (Wall)
+3666 zipper tank (Wall)
+3667 misty tank (Wall)
+3668 purple tie-dye tank (Wall)
+3669 jester tank (Wall)
+366A grape tank (Wall)
+366B sno-cone tank (Wall)
+366C aqua polka tank (Wall)
+366D strawberry tank (Wall)
+366E peachy tank (Wall)
+366F reggae tank (Wall)
+3670 blue argyle tank (Wall)
+3671 twinkle tank (Wall)
+3672 green tie-dye tank (Wall)
+3673 cool tank (Wall)
+3674 optical tank (Wall)
+3675 jagged tank (Wall)
+3676 rally tank (Wall)
+3677 bubble tank (Wall)
+3678 deep-blue tank (Wall)
+3679 beaded tank (Wall)
+367A coral tank (Wall)
+367B pink argyle tank (Wall)
+367C funky-dot tank (Wall)
+367D groovy tank (Wall)
+367E fresh tank (Wall)
+367F tropical tank (Wall)
+3680 sunset tank (Wall)
+3681 citrus tank (Wall)
+3682 blue tie-dye tank (Wall)
+3683 giraffe tank (Wall)
+3684 orange tie-dye tank (Wall)
+3685 zebra tank (Wall)
+3686 tiger tank (Wall)
+3687 kiwi tank (Wall)
+3688 red tie-dye tank (Wall)
+3689 pep-squad tank (Wall)
+368A dawn tank (Wall)
+368B beatnik tank (Wall)
+368C big-dot tank (Wall)
+368D rainbow tank (Wall)
+368E leopard tank (Wall)
+368F cow tank (Wall)
+3690 genie vest (Wall)
+3691 cyan argyle tank (Wall)
+3692 men's recruit suit **NEW** (Wall)
+3693 women's recruit suit **NEW** (Wall)
+3694 stylish suit **NEW** (Wall)
+3695 polo shirt **NEW** (Wall)
+3696 women's office suit **NEW** (Wall)
+3697 blue nurse's uniform **NEW** (Wall)
+3698 flashy suit **NEW** (Wall)
+3699 sushi chef's outfit **NEW** (Wall)
+369A comedian's outfit **NEW** (Wall)
+369B rubber apron **NEW** (Wall)
+369C frilly apron **NEW** (Wall)
+369D Felyne outfit **NEW** (Wall)
+369E HHA women's jacket **NEW** (Wall)
+369F good-fortune clothes **NEW** (Wall)
+36A0 Link outfit **NEW** (Wall)
+36A1 Ganondorf outfit **NEW** (Wall)
+36A2 Ganon outfit **NEW** (Wall)
+36A3 Medli outfit **NEW** (Wall)
+36A4 Epona outfit **NEW** (Wall)
+36A5 Wolf Link outfit **NEW** (Wall)
+36A6 new hero's outfit **NEW** (Wall)
+36A7 black anchor tee **NEW** (Wall)
+36A8 Cinnamoroll jacket **NEW** (Wall)
+36A9 suspenders shirt **NEW** (Wall)
+36AA Hello Kitty outfit **NEW** (Wall)
+36AB My Melody outfit **NEW** (Wall)
+36AC Kiki and Lala outfit **NEW** (Wall)
+36AD Pompompurin outfit **NEW** (Wall)
+36AE Cinnamoroll outfit **NEW** (Wall)
+36AF Kerokerokeroppi top **NEW** (Wall)
+36B0 HHA raincoat **NEW** (Wall)
+36B1 Callie shirt **NEW** (Wall)
+36B2 Marie shirt **NEW** (Wall)
+36B3 Callie fashion top **NEW** (Wall)
+36B4 high-spirits shirt **NEW** (Wall)
+36B5 town-hall spring top **NEW** (Wall)
+36B6 town-hall winter top **NEW** (Wall)
+36B7 jacquard fleece **NEW** (Wall)
+36B9 Sheik outfit **NEW** (Wall)
 
-New furniture (update)
+
+Dresses (Wall Variants)
 ----------------------
-3726 magic lamp **NEW**
-372a Ikada trophy **NEW**
+36BB festive dress (Wall)
+36BC muumuu (Wall)
+36BD blue dotted dress (Wall)
+36BE tan dogtooth dress (Wall)
+36BF prim outfit (Wall)
+36C0 overall dress (Wall)
+36C1 pink lace-up dress (Wall)
+36C2 academy uniform (Wall)
+36C3 prep-school uniform (Wall)
+36C4 blue party dress (Wall)
+36C5 pink party dress (Wall)
+36C6 yellow dotted dress (Wall)
+36C7 pinafore (Wall)
+36C8 plaid cami dress (Wall)
+36C9 green dress (Wall)
+36CA butterfly dress (Wall)
+36CB gaudy dress (Wall)
+36CC sea captain's coat (Wall)
+36CD pink-zap suit (Wall)
+36CE fleece dress (Wall)
+36CF vogue dress (Wall)
+36D0 citrus gingham dress (Wall)
+36D1 floral knit dress (Wall)
+36D2 dreamy tank dress (Wall)
+36D3 silk bloom dress (Wall)
+36D4 pop bloom dress (Wall)
+36D5 blossom dress (Wall)
+36D6 loud bloom dress (Wall)
+36D7 rose tank dress (Wall)
+36D8 rose-sky tank dress (Wall)
+36D9 lotus tank dress (Wall)
+36DA blue retro dress (Wall)
+36DB orange retro dress (Wall)
+36DC cool dress (Wall)
+36DD moldy dress (Wall)
+36DE blossoming dress (Wall)
+36DF ribbon dress (Wall)
+36E0 blue lace-up dress (Wall)
+36E1 orange lace-up dress (Wall)
+36E2 green lace-up dress (Wall)
+36E3 lime dress (Wall)
+36E4 turnip dress (Wall)
+36E5 yodel dress (Wall)
+36E6 red riding dress (Wall)
+36E7 witch's robe (Wall)
+36E8 graduation gown (Wall)
+36E9 sky dress (Wall)
+36EA alpinist dress (Wall)
+36EB kimono (Wall)
+36EC milkmaid dress (Wall)
+36ED toga (Wall)
+36EE cake dress (Wall)
+36EF waitress dress (Wall)
+36F0 princess dress (Wall)
+36F1 fairy-tale dress (Wall)
+36F2 pink polka dress (Wall)
+36F3 palatial tank dress (Wall)
+36F4 poncho (Wall)
+36F5 fluffy dress (Wall)
+36F6 cat dress (Wall)
+36F7 plum coat (Wall)
+36F8 frock coat (Wall)
+36F9 casual outfit (Wall)
+36FA maid dress (Wall)
+36FB trench coat (Wall)
+36FC pharaoh's outfit (Wall)
+36FD bathrobe (Wall)
+36FE polka-dot dress (Wall)
+36FF patched dress (Wall)
+3700 black-velvet dress (Wall)
+3701 dazed dress (Wall)
+3702 dogtooth dress (Wall)
+3703 nurse's uniform (Wall)
+3704 embroidered dress (Wall)
+3705 Festivale tank dress (Wall)
+3706 tartan-plaid outfit (Wall)
+3707 sweater dress (Wall)
+3708 shirtdress (Wall)
+3709 red dress (Wall)
+370A yellow raincoat (Wall)
+370B dollhouse dress (Wall)
+370C festive-tree dress (Wall)
+370D ballet outfit (Wall)
+370E classic dress (Wall)
+370F U-R-here dress (Wall)
+3710 natty dress (Wall)
+3711 dapper dress (Wall)
+3712 gumdrop dress (Wall)
+3713 chima jeogori dress (Wall)
+3714 spring kimono (Wall)
+3715 caveman tank dress (Wall)
+3716 star tank dress (Wall)
+3717 twinkle tank dress (Wall)
+3718 pastel-stripe dress (Wall)
+3719 cat tank dress (Wall)
+371A cake tank dress (Wall)
+371B fluffy tank dress (Wall)
+371C lovely dress (Wall)
+371D blue ballet outfit **NEW** (Wall)
+371E musician's outfit **NEW** (Wall)
+371F Princess Zelda dress **NEW** (Wall)
+3720 Marie dress **NEW** (Wall)
+3721 Hello Kitty dress **NEW** (Wall)
+3722 My Melody dress **NEW** (Wall)
+3723 Kiki and Lala dress **NEW** (Wall)
+3724 Pompompurin dress **NEW** (Wall)
+3725 Flower Fairy dress **NEW** (Wall)
+
+Special Furniture Items (Welcome Amiibo Update)
+-----------------------------------------------
+3726 Magic Lamp **NEW**
+3727 Retail Customise Giant Item Sign **NEW**
+3728 Retail Customise Giant Item Box **NEW**
+3729 Frying Pan **NEW**
+372a Ikada Trophy **NEW**
+
+Room Reserved Space
+-------------------
+7FFC Multispace Furniture
