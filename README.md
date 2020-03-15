@@ -1,4 +1,4 @@
-## http://sirbeethoven.github.io/LeafHacks/ or ## [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)  
+## http://sirbeethoven.github.io/LeafHacks/ or [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)  
 # LeafHacks
 A hub for ACNL item IDs! To be used with [these Animal Crossing New Leaf Hacks!](https://github.com/rydoginator/ACNL-NTR-Cheats/releases/latest)  
 Go [here](http://moridb.com) to see what an item looks like before you spawn it in!  
